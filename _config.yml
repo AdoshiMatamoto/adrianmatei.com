@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Adrian's Personal Website"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Adrian Matei"
+description              : "Personal site of Adrian Matei. Here you can find my resume, my projects and other non-work related material, like travel, cooking"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "amacoder/adrianmatei.me"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "adrianmatei_me"
 facebook:
-  username               :
+  username               : "adrianmatei.me"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -77,30 +77,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Adrian"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Life force, trying to find its way... Currently software developer"
+  location         : "Bern"
+  email            : "ama@codingpedia.org"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "adrianmatei.me"
   foursquare       :
-  github           :
+  github           : "amacoder"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        :  "adrianmatei.me"
   lastfm           :
-  linkedin         :
+  linkedin         : "adrian-matei"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          :  "adrianmatei_me"
   vine             :
   weibo            :
   xing             :
@@ -174,7 +174,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Zurich
 
 
 # Plugins
