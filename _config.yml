@@ -232,7 +232,7 @@ compress_html:
 
 # Collections
 collections:
-  photography:
+  photostories:
     output: true
     permalink: /:collection/:path/
 
@@ -249,10 +249,10 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _photography
+  # _photostories
   - scope:
       path: ""
-      type: photography
+      type: photostories
     values:
       layout: single
       author_profile: true
