@@ -13,32 +13,32 @@ gallery:
     title: "Start the journey with a view on the Brienz Lake"
   - url: /assets/images/photostories/brienz-rothorn-trip/2.1-swiss-cow.jpg
     image_path: /assets/images/photostories/brienz-rothorn-trip/2.1-swiss-cow.jpg
-    alt: "Swiss cow"
-    title: "The usual suspect when you travel in Switzerland"
+    alt: "The usual suspect in the Swiss Alps"
+    title: "The usual suspect in the Swiss Alps"
   - url: /assets/images/photostories/brienz-rothorn-trip/2-view-on-the-lake-and-following-trains.JPG
     image_path: /assets/images/photostories/brienz-rothorn-trip/2-view-on-the-lake-and-following-trains.JPG
-    alt: "Brienz Lake starting to show up"
-    title: "Brienz Lake starting to show up"
+    alt: "Brienz Lake is starting to show up"
+    title: "Brienz Lake is starting to show up"
   - url: /assets/images/photostories/brienz-rothorn-trip/3-the-higher-you-go-the-more-spectacular-it-gets.JPG
     image_path: /assets/images/photostories/brienz-rothorn-trip/3-the-higher-you-go-the-more-spectacular-it-gets.JPG
-    alt: "The higher we go, the more spectacular it gets"
-    title: "The higher we go, the more spectacular it gets"
+    alt: "The higher you go, the more spectacular it gets"
+    title: "The higher you go, the more spectacular it gets"
   - url: /assets/images/photostories/brienz-rothorn-trip/4-reach-rothorn-station.JPG
     image_path: /assets/images/photostories/brienz-rothorn-trip/4-reach-rothorn-station.JPG
-    alt: "We reach Rohorn station and we are above 2000m now"
-    title: "We reach Rohorn station and we are above 2000m now"
+    alt: "Reach Rothorn station and you are above 2000m now"
+    title: "Reach Rothorn station and you are above 2000m now"
   - url: /assets/images/photostories/brienz-rothorn-trip/5-go-right.JPG
     image_path: /assets/images/photostories/brienz-rothorn-trip/5-go-right.JPG
-    alt: "Hm, go right to the Rothorn peak"
-    title: "Hm, go right to the Rothorn peak"
+    alt: "Then you need to decide where to go first... To the right to the Rothorn summit"
+    title: "Then you need to decide where to go first... To the right to the Rothorn summit"
   - url: /assets/images/photostories/brienz-rothorn-trip/6-go-left.JPG
     image_path: /assets/images/photostories/brienz-rothorn-trip/6-go-left.JPG
-    alt: "Go to the left"
-    title: "Go to the left"
+    alt: "Go to the left to the other peak"
+    title: "Go to the left to the other peak"
   - url: /assets/images/photostories/brienz-rothorn-trip/7-plunge-ahead.JPG
     image_path: /assets/images/photostories/brienz-rothorn-trip/7-plunge-ahead.JPG
-    alt: "Or just plunge ahead"
-    title: "Or just plunge ahead" 
+    alt: "Or just plunge ahead - don't try this without a paraglider though"
+    title: "Or just plunge ahead - don't try this without a paraglider though" 
   - url: /assets/images/photostories/brienz-rothorn-trip/7.1-talent-strikes-wife.jpg
     image_path: /assets/images/photostories/brienz-rothorn-trip/7.1-talent-strikes-wife.jpg
     alt: "Artistic spirit strikes wife, good one though..."
@@ -49,8 +49,8 @@ gallery:
     title: "In the mean time spectacular view on the Lake Brienz" 
   - url: /assets/images/photostories/brienz-rothorn-trip/8.1-son-takes-picture.jpg
     image_path: /assets/images/photostories/brienz-rothorn-trip/8.1-son-takes-picture.jpg
-    alt: "Artistic spirit strikes son too"
-    title: "Artistic spirit strikes son too"
+    alt: "Artistic spirit can strike son too"
+    title: "Artistic spirit can strike son too"
   - url: /assets/images/photostories/brienz-rothorn-trip/8.3-apple-time.jpg
     image_path: /assets/images/photostories/brienz-rothorn-trip/8.3-apple-time.jpg
     alt: "Enjoy an apple and the beautiful scenery on the opposite side"
@@ -103,6 +103,10 @@ gallery:
     image_path: /assets/images/photostories/brienz-rothorn-trip/15-cant-fight-talent.JPG
     alt: "You just can't fight wife's artistic spirit"
     title: "You just can't fight wife's artistic spirit"
+  - url: /assets/images/photostories/brienz-rothorn-trip/15.2-three-more-steps-and-we-are-there.jpg
+    image_path: /assets/images/photostories/brienz-rothorn-trip/15.2-three-more-steps-and-we-are-there.jpg
+    alt: "Three more steps to go"
+    title: "Three more steps to go"   
   - url: /assets/images/photostories/brienz-rothorn-trip/16-the-peak-of-our-journey.JPG
     image_path: /assets/images/photostories/brienz-rothorn-trip/16-the-peak-of-our-journey.JPG
     alt: "The peakture of our journey"
@@ -113,30 +117,41 @@ gallery:
     title: "Time to relax a little bit"
   - url: /assets/images/photostories/brienz-rothorn-trip/17.2-view-of-rothorn-peak-panorama.jpg
     image_path: /assets/images/photostories/brienz-rothorn-trip/17.2-view-of-rothorn-peak-panorama.jpg
-    alt: "I can understand why they are starring - panorama with Rothorn summit in the middle"
-    title: "I can understand why they are starring - panorama with Rothorn summit in the middle"
+    alt: "I can understand why the starring - panorama with Rothorn summit in the middle"
+    title: "I can understand why the starring - panorama with Rothorn summit in the middle"
   - url: /assets/images/photostories/brienz-rothorn-trip/18-i-am-leaving-i-miss-my-toys.JPG
     image_path: /assets/images/photostories/brienz-rothorn-trip/18-i-am-leaving-i-miss-my-toys.JPG
-    alt: "I don't know about you guys, but I am leaving, I miss my toys"
-    title: "I don't know about you guys, but I am leaving, I miss my toys" 
+    alt: "Kid won't last long though, misses his toys or whatever.."
+    title: "Kid won't last long though, misses his toys or whatever.." 
   - url: /assets/images/photostories/brienz-rothorn-trip/19-cloud-worth-sharing.JPG
     image_path: /assets/images/photostories/brienz-rothorn-trip/19-cloud-worth-sharing.JPG
     alt: "Somebody is making a really big barbeque"
     title: "Somebody is making a really big barbeque"
   - url: /assets/images/photostories/brienz-rothorn-trip/20-believe-it-or-not-we-caught-that-train.JPG
     image_path: /assets/images/photostories/brienz-rothorn-trip/20-believe-it-or-not-we-caught-that-train.JPG
-    alt: "Believe it or not we managed to catch that train, btw the BBQ was getting hot"
-    title: "Believe it or not we managed to catch that train, btw the BBQ was getting hot"
+    alt: "Hurry up to catch that train down... the BBQ was getting hot"
+    title: "Hurry up to catch that train down... the BBQ was getting hot"
   - url: /assets/images/photostories/brienz-rothorn-trip/21-lucky-bastards-are-going-up.JPG
     image_path: /assets/images/photostories/brienz-rothorn-trip/21-lucky-bastards-are-going-up.JPG
-    alt: "Those lucky bastards are going up the mountain"
-    title: "Those lucky bastards are going up the mountain"                                                                                                                                
+    alt: "You might think those lucky bastards are going up the mountain"
+    title: "You might think those lucky bastards are going up the mountain"
+  - url: /assets/images/photostories/brienz-rothorn-trip/22-hidrobike-on-the-lake-view.JPG
+    image_path: /assets/images/photostories/brienz-rothorn-trip/22-hidrobike-on-the-lake-view.JPG
+    alt: "But once back, you can then enjoy a ride with the hidrobike on the Lake Brienz"
+    title: "But once back, you can then enjoy a ride with the hidrobike on the Lake Brienz"
+  - url: /assets/images/photostories/brienz-rothorn-trip/23-that-pilot-was-sleeping.JPG
+    image_path: /assets/images/photostories/brienz-rothorn-trip/23-that-pilot-was-sleeping.JPG
+    alt: "See some plane rebound, after the pilot wakes up"
+    title: "See some plane rebound, after the pilot wakes up"
+  - url: /assets/images/photostories/brienz-rothorn-trip/24-wanted-to-see-that-church-closer.JPG
+    image_path: /assets/images/photostories/brienz-rothorn-trip/24-wanted-to-see-that-church-closer.JPG
+    alt: "Or have a closer look at the lake church, spotted on your way up"
+    title: "Or have a closer look at the lake church, spotted on your way up"                                                                                                                                                  
 ---
-
 
 A must do journey you need to take if you are in the Interlaken area of Switzerland. Once you reach the top you have
  amazing view on the Lake Brienz (German: Brienzersee) and the surrounding Swiss Alps, topping with Jungfrau, Mönch and Eiger. 
-  The trip up and down by the steam train is lots of fun too. But let the pictures speak for themselves.
+  The trip up and down by the steam train is lots of fun too. But I'll the pictures speak for themselves:
   
  {% include gallery caption="This is a sample gallery with **Markdown support**." %}
  
