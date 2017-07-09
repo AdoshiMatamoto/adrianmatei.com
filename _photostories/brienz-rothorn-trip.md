@@ -99,10 +99,6 @@ gallery:
     image_path: /assets/images/photostories/brienz-rothorn-trip/15-cant-fight-talent.JPG
     alt: "You just can't fight wife's artistic spirit"
     title: "You just can't fight wife's artistic spirit"  
-  - url: /assets/images/photostories/brienz-rothorn-trip/15-cant-fight-talent.JPG
-    image_path: /assets/images/photostories/brienz-rothorn-trip/15-cant-fight-talent.JPG
-    alt: "You just can't fight wife's artistic spirit"
-    title: "You just can't fight wife's artistic spirit"
   - url: /assets/images/photostories/brienz-rothorn-trip/15.2-three-more-steps-and-we-are-there.jpg
     image_path: /assets/images/photostories/brienz-rothorn-trip/15.2-three-more-steps-and-we-are-there.jpg
     alt: "Three more steps to go"
