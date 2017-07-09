@@ -1,13 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: /about/
-  - title: "Projects"
-    url: /projects/
-  - title: "Travel"
-    url: /travel/
+  - title: "Resume"
+    url: "https://www.linkedin.com/in/adrian-matei"
+  - title: "Photostories"
+    url: /photostories/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
