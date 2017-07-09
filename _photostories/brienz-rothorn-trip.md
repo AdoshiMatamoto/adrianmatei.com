@@ -1,5 +1,7 @@
 ---
-title: "Getting to the top with the Brienz Rothorn Railyway "
+title: "Getting to the Rothorn summit with the Brienz Rothorn Railyway"
+header:
+  image: /assets/images/photostories/brienz-rothorn-trip/brienz-rothorn-bahn-header.jpg
 tags:
   - gallery 
 gallery:
@@ -145,7 +147,7 @@ gallery:
     title: "Or have a closer look at the lake church, spotted on your way up"                                                                                                                                                  
 ---
 
-A must do journey you need to take if you are in the Interlaken area of Switzerland. Once you reach the top you have
+A journey you just need to make if you are in the Interlaken area of Switzerland. Once you reach the top you have
  amazing view on the Lake Brienz (German: Brienzersee) and the surrounding Swiss Alps, topping with Jungfrau, Mönch and Eiger. 
   The trip up and down by the steam train is lots of fun too. But I'll the pictures speak for themselves:
   
