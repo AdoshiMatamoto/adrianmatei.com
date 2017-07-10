@@ -56,6 +56,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : "adrianmatei_me"
+instagram:
+  username               : "adrianmatei.me"
 facebook:
   username               : "adrianmatei.me"
   app_id                 :
