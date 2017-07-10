@@ -1,5 +1,6 @@
 ---
 title: "Getting to the Rothorn summit with the Brienz Rothorn Railyway"
+excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 header:
   image: /assets/images/photostories/brienz-rothorn-trip/brienz-rothorn-bahn-header.jpg
 tags:
@@ -147,10 +148,12 @@ gallery:
     title: "Or have a closer look at the lake church, spotted on your way up"                                                                                                                                                  
 ---
 
-A journey you just need to make if you are in the Interlaken area of Switzerland. Once you reach the top you have
- amazing view on the Lake Brienz (German: Brienzersee) and the surrounding Swiss Alps, topping with Jungfrau, Mönch and Eiger. 
-  The trip up and down by the steam train is lots of fun too. But I'll the pictures speak for themselves:
+A journey you just need to make if you are around Lake Brienz (German: Brienzersee) in the mountainous Bernese Oberland region of central Switzerland.
+ Once you reach the top you have amazing view on the lake and the surrounding Swiss Alps (amongst others Jungfrau, Mönch and Eiger). 
+  The trip up and down by the steam train is lots of fun too. But I'll let the pictures speak for themselves - **click on a picture to 
+  start the gallery**:
   
- {% include gallery caption="This is a sample gallery with **Markdown support**." %}
+ {% include gallery caption="Brienz Rothorn Railway #photostory" %}
  
- This is some text after the gallery just to make sure that everything aligns properly.
+ Check out the [Brienz-Rothorn-Bahn website](http://brienz-rothorn-bahn.ch/?lang=en) to get more information about timetable, prices, restaurant and hiking possibilities.
+ 
