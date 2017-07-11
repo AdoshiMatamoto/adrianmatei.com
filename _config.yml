@@ -236,7 +236,6 @@ compress_html:
 collections:
   photostories:
     output: true
-    permalink: /:collection/:path/
 
 # Defaults
 defaults:
