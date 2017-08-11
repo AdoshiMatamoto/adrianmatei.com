@@ -1,5 +1,6 @@
 ---
 title: "Grindelwald First Gondola"
+date: 2015-06-28
 permalink: "/photostories/grindelwald-first-gondola/"
 excerpt: "Took the gondola from Grindelwald to the First peak. Majestic mountains accompanied us all the way, it was like 
 postcards all over..."

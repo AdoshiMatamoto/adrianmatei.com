@@ -1,5 +1,6 @@
 ---
 title: "Bringing grandma to the Oeschinen Lake for the first time"
+date: 2017-08-07
 permalink: "/photostories/bringing-grandma-to-the-oeschinen-lake-for-the-first-time/"
 published: true
 excerpt: "When there's good weather and you live in Bern, making a journey to the Oeschinen lake with

@@ -1,5 +1,6 @@
 ---
 title: "Chiemsee boat trip to Herreninsel and Fraueninsel"
+date: 2014-08-02
 permalink: "/photostories/herrenchiemsee-and-fraueninsel-boat-trip/"
 excerpt: "Day trip from Munich to Chiemsee. From Prien we took the boat to two beautiful islands - Herreninsel and Fraueninsel. 
  On Herreninsel, you can visit the famous fairytale palace of King Ludwig II. The island Fraueninsel is a real idyllic 

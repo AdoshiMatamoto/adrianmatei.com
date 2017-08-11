@@ -1,7 +1,7 @@
 ---
 title: "Getting to the Rothorn summit with the Brienz Rothorn Railyway"
+date: 2017-06-18
 permalink: "/photostories/brienz-rothorn-railway-trip/"
-published: false
 excerpt: "Journey in pictures from Brienz to the Rothorn summit with the Rothorn-Brienz-Railway. An amazing view on the Brienz Lake and surrounding Swiss Alps is guaranteed. Just watch the Photo Gallery."
 header:
   image: /assets/images/photostories/brienz-rothorn-trip/brienz-rothorn-bahn-header.jpg
