@@ -57,17 +57,17 @@ gallery:
     title: "The uns is rising, so it's time to bo back to the hotel..."
 
   - url: /assets/images/photostories/2017-09-17-menorca-sonbou-moonset/10-end-of-discovery-jump-into-the-see.JPG
-    image_path: /assets/images/photostories/2017-09-17-menorca-sonbou-moonset/9-end-of-discovery-jump-into-the-see.JPG
+    image_path: /assets/images/photostories/2017-09-17-menorca-sonbou-moonset/10-end-of-discovery-jump-into-the-see.JPG
     alt: "Back at the starting point, time to take a jump while nobody is still there..."
     title: "Back at the starting point, time to take a jump while nobody is still there..."
 
   - url: /assets/images/photostories/2017-09-17-menorca-sonbou-moonset/11-back-to-the-hotel.JPG
-    image_path: /assets/images/photostories/2017-09-17-menorca-sonbou-moonset/10-back-to-the-hotel.JPG
+    image_path: /assets/images/photostories/2017-09-17-menorca-sonbou-moonset/11-back-to-the-hotel.JPG
     alt: "Are they still asleep?"
     title: "Are they still asleep??"
 
   - url: /assets/images/photostories/2017-09-17-menorca-sonbou-moonset/12-one-last-look-at-the-sea-before-coming-back-with-family.JPG
-    image_path: /assets/images/photostories/2017-09-17-menorca-sonbou-moonset/11-one-last-look-at-the-sea-before-coming-back-with-family.JPG
+    image_path: /assets/images/photostories/2017-09-17-menorca-sonbou-moonset/12-one-last-look-at-the-sea-before-coming-back-with-family.JPG
     alt: "Till later... that time will be more of us..."
     title: "Till later... that time will be more of us..."                
 ---
