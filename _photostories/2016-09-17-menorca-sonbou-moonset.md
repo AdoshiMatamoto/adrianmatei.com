@@ -7,7 +7,9 @@ excerpt: "Early bird walk along the coast in Son Bou. Enjoy the sounds of the wa
 header:
   image: /assets/images/photostories/2017-09-17-menorca-sonbou-moonset/header.JPG
 tags:
-  - spain, menorca
+  - spain
+  - menorca
+  
 gallery:
   - url: /assets/images/photostories/2017-09-17-menorca-sonbou-moonset/1-first-glimpse-at-the-moonset.JPG
     image_path: /assets/images/photostories/2017-09-17-menorca-sonbou-moonset/1-first-glimpse-at-the-moonset.JPG
