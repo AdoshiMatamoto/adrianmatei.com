@@ -1,7 +1,7 @@
 ---
 title: "Mürren Allmendhubel North Face Trail - first time and it's already a classic..."
 date: 2017-08-20
-permalink: "/photostories/muerren-allmendhubel-north-face-trail/"
+permalink: "/photostories/muerren-allmendhubel-north-face-trail-hiking/"
 published: true
 excerpt: "First time in Mürren and first time walked the North Face Trail from Allmendhubel. Join me on the trip and enjoy the spectacular
 views of mountain scenery..."
