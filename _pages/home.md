@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-download'></i> Install Now"
   cta_url: "https://github.com/Codingpedia/codingmarks/"
   caption:
-excerpt: 'Software engineer hooked on coding, but also spending time outdoors and practicing basically any kind of sports. Currently expanding #codingmarks <br /> <small><a href="https://github.com/Codingpedia/codingmarks/releases/tag/v1.6.0">Latest release v1.6.0</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=Codingpedia&repo=codingmarks&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=Codingpedia&repo=codingmarks&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: 'Software engineer hooked on coding, spending time outdoors and practicing basically any kind of sports. Currently expanding #codingmarks <br /> <small><a href="https://github.com/Codingpedia/codingmarks/releases/tag/v1.6.0">Latest release v1.6.0</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=Codingpedia&repo=codingmarks&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=Codingpedia&repo=codingmarks&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
   - image_path: /assets/images/home/projects-featuring-codingmarks.png
     alt: "Projects"
@@ -18,7 +18,7 @@ feature_row:
   - image_path: /assets/images/home/photostories.png
     alt: "fully responsive"
     title: "Photo Stories"
-    excerpt: "When I go outside, I usually like taking pictures and creating stories inside my head. Some of them are exposed here."
+    excerpt: "When I go outside, I usually like taking pictures and creating stories inside my head. I try putting some of them on paper..."
     url: "/photostories/"
     btn_label: "Learn More"
   - image_path: /assets/images/home/blog.png
