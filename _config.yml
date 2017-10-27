@@ -241,6 +241,9 @@ compress_html:
 collections:
   photostories:
     output: true
+  booknotes:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -259,6 +262,15 @@ defaults:
   - scope:
       path: ""
       type: photostories
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _booknotes
+  - scope:
+      path: ""
+      type: booknotes
     values:
       layout: single
       author_profile: true
