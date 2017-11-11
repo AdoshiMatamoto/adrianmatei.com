@@ -138,8 +138,6 @@ I things that were basically considered to be impossible. That’s what makes th
 
 unhelpful…. Ultimately, to be properly successful is to be at peace as well.”
                 
-The Unbearable Lightness of Being by Milan Kundera,
-
 “The goal of the future is full unemployment, so we can play. That’s why we have to destroy the present politico-economic system.”
 
 When you’re not drinking, you can see drunkenness more clearly than those actually experiencing it.
@@ -309,6 +307,7 @@ Note: attitude to failing
 * The Art of Learning - https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465
 * Daring Greatly, The Gifts of Imperfection, and Rising Strong.
 * The Checklist Manifesto by Atul Gawande
+* The Unbearable Lightness of Being by Milan Kundera
 
 ## Films
 
