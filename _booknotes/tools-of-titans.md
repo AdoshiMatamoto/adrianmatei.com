@@ -2,9 +2,23 @@
 title: "Tools of titans"
 date: 2017-02-07
 excerpt: "The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers"
+bookcover: /assets/images/booknotes/bookcovers/tools-of-titans.jpg
 tags:
   - self-improvement
+  - biography
 ---
+
+This is a great book written by Tim Feriss, best known for his book <a target="_blank" href="https://www.amazon.com/gp/product/B006X0M2TS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006X0M2TS&linkCode=as2&tag=adrianmatei.me-20&linkId=8303b223edefd3a67ac933113aff4af6">The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=adrianmatei.me-20&l=am2&o=1&a=B006X0M2TS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
+ In this book he questions successful people about their tactics, routines and habits. Most of them are really happy to share
+ how they came to be. Throughout the book the author and his interviewees recommend tons of other good books. Some of them are list at the end of this post.
+ 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=adrianmatei.me-20&marketplace=amazon&region=US&placement=B01HSMRWNU&asins=B01HSMRWNU&linkId=b0e1db93755725a19ff449189e226e66&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe> 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=adrianmatei.me-21&marketplace=amazon&region=DE&placement=B01LF32ZNU&asins=B01LF32ZNU&linkId=47b1eda14682590353056f3f361c6a9f&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+    
+## Book highlights and notes
+
 “You’re not responsible for the hand of cards you were dealt. You’re responsible for maxing out what you were given.”
 Chris is incredibly smart about asking the “dumb” questions hiding in plain sight.
                 
@@ -31,7 +45,7 @@ HOPE IS NOT A STRATEGY. LUCK IS NOT A FACTOR. FEAR IS NOT AN OPTION
                 
 Could bitching and moaning on paper for 5 minutes each morning change your life? As crazy as it seems, I believe the answer is yes.
                 
-“Never go to sleep without a request to your subconscious.“
+“Never go to sleep without a request to your subconscious.“   
                 
 “How do you know if you have A-players on your project team? You know it if they don’t just accept the strategy you hand them.
  They should suggest modifications to the plan based on their closeness to the details.”
@@ -289,18 +303,18 @@ It’s really how you look at it, and the way you look at it is so important.
 Note: attitude to failing
 “You must want to be a butterfly so badly, you are willing to give up being a caterpillar.”
                 
-## Books
+## Referenced books
 
-* The Drama of the Gifted Child by Alice Miller.
+* <a target="_blank" href="https://www.amazon.de/gp/product/B06XCG9MKN/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B06XCG9MKN&linkCode=as2&tag=adrianmatei.me-21&linkId=4b440d182a77cb53b84971baac220fff">The Drama of the Gifted Child: The Search for the True Self, Third Edition (English Edition)</a><img src="//ir-de.amazon-adsystem.com/e/ir?t=adrianmatei.me-21&l=am2&o=3&a=B06XCG9MKN" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 * Joseph Campbell—The Power of Myth and The Hero with a Thousand Faces.
-* The Art of Learning by Josh Waitzkin
+* <a target="_blank" href="https://www.amazon.com/gp/product/B000QCQ970/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000QCQ970&linkCode=as2&tag=adrianmatei.me-20&linkId=7c8387fa4200b3db50841e16f4e2cb16">The Art of Learning: A Journey in the Pursuit of Excellence</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=adrianmatei.me-20&l=am2&o=1&a=B000QCQ970" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 * Status Anxiety, The Architecture of Happiness, The News: A User’s Manual, and Art as Therapy.
 * Nietzsche, On the Genealogy of Morality
-* Anne Lamott - Bird by Bird
+* <a target="_blank" href="https://www.amazon.com/gp/product/B000SEGI8Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000SEGI8Q&linkCode=as2&tag=adrianmatei.me-20&linkId=2fb2d27b2d865b5b94a55e871ef8f718">Bird by Bird: Some Instructions on Writing and Life</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=adrianmatei.me-20&l=am2&o=1&a=B000SEGI8Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 * Foer’s book Moonwalking with Einstein.
 * Maxims and Reflections by Goethe:
-* The Art of Asking: How I Learned to Stop Worrying and Let People Help.
-* Dropping Ashes on the Buddha
+* <a target="_blank" href="https://www.amazon.com/gp/product/B00NLHJKR8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NLHJKR8&linkCode=as2&tag=adrianmatei.me-20&linkId=930106efddca391657c5cd43491534a5">The Art of Asking: How I learned to stop worrying and let people help</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=adrianmatei.me-20&l=am2&o=1&a=B00NLHJKR8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+* <a target="_blank" href="https://www.amazon.com/gp/product/B005FFPMWG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FFPMWG&linkCode=as2&tag=adrianmatei.me-20&linkId=ffad3e20129ec2b89bb676dde628f4f1">Dropping Ashes on the Buddha: The Teachings of Zen Master Seung Sahn</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=adrianmatei.me-20&l=am2&o=1&a=B005FFPMWG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 * The Art of Dramatic Writing by Lajos Egri
 * Tara’s first book, Radical Acceptance
 * “The Catastrophe of Success” by Tennessee Williams.
@@ -311,6 +325,6 @@ Note: attitude to failing
 
 ## Films
 
-* The Century of the Self
-* A Prophet
+* [The Century of the Self](https://topdocumentaryfilms.com/the-century-of-the-self/)
+* [A Prophet](http://www.imdb.com/title/tt1235166/?ref_=fn_al_tt_1)
 
