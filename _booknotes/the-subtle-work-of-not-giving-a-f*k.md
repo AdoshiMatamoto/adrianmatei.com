@@ -2,13 +2,13 @@
 title: "The Subtle Art of Not Giving a F*ck"
 date: 2017-01-01
 excerpt: "A Counterintuitive Approach to Living a Good Life"
-bookcover: /assets/images/booknotes/bookcovers/tools-of-titans.jpg
+bookcover: /assets/images/booknotes/bookcovers/the-subtle-work-of-not-giving-a-f--k.jpg
 tags:
   - self-improvement
 ---
 
-This is an easy read with lots of f*ks in it, but with lots of SERIOUS life lessons. Mark emphasizes what you should care
-more about, and less (give a f*ck) about the unimportant things in life. 
+Easy to read, fun and well-written book, where actually lots of SERIOUS life lessons are addressed - giving f*cks 
+about the important things in life and not giving a f*ck for everything else.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=adrianmatei.me-20&marketplace=amazon&region=US&placement=B019MMUA8S&asins=B019MMUA8S&linkId=9d59b4af671349eaec1474441d3005cf&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
      </iframe>
@@ -38,7 +38,7 @@ We have evolved to always live with a certain degree of dissatisfaction and inse
                 
 Like physical pain, our psychological pain is an indication of something out of equilibrium, some limitation that has been exceeded.
 
-“Don’t hope for a life without problems,” the panda said. “There’s no such thing. Instead, hope for a life full of good problems.”
+<span class="highlight-yellow">“Don’t hope for a life without problems,” the panda said. “There’s no such thing. Instead, hope for a life full of good problems.”</span>
                 
 Problems never stop; they merely get exchanged and/or upgraded.
                 
