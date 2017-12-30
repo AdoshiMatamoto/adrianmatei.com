@@ -1,6 +1,7 @@
 ---
 title: "Inner Engineering: A Yogi's Guide to Joy"
 date: 2017-08-17
+bookcover: /assets/images/booknotes/bookcovers/inner-engineering-a-yogi-s-guide-to-joy.jpg
 excerpt: "Well written, easy to read, englights your day and life - by sadguru"
 tags:
   - spirituality 

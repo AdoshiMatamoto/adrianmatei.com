@@ -1,6 +1,7 @@
 ---
 title: "Hable como en TED: Nueve secretos para comunicar utilizados por los mejores"
 date: 2017-07-20
+bookcover: /assets/images/booknotes/bookcovers/hable-como-en-ted-nueve-secretos-para-comunicar-utilizados-por-los-mejores.jpg
 excerpt: "Hable como en TED es el libro de referencia para aprender a expresarse en público como lo hacen los oradores profesionales."
 tags:
   - public-speaking 
