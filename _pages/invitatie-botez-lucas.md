@@ -2,6 +2,8 @@
 layout: single
 permalink: /invitatie-botez-lucas/
 title: "Invitație botez Lucas-Daniel"
+excerpt: "Pe 14 aprilie la ora 13 la biserica Sf. Nicolae din Câmpulung Muscel. Petrecerea la ora 14
+la restaurantul Hotelului Muscelul, 100m mai sus..."
 header:
   overlay_image: /assets/images/invitatie-botez-lucas/header.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -81,7 +83,7 @@ gallery:
  
 ## Petrecerea
 
- Imediat după, la **ora 14**, vă invit să petrecem la Restaurantul Hotelului Muscelul, 100m mai încolo:
+ Imediat după, la **ora 14**, vă invit să petrecem la Restaurantul [Hotelului Muscelul](https://www.muscelul.ro/), 100m mai încolo:
  
  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/invitatie-botez-lucas/locatii-botez.png" alt="Locatii botez"> 
  
