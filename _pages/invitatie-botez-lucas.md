@@ -71,7 +71,7 @@ gallery:
 
  Dragii mei,
  
- Împreună cu părinții, Silvia și Adrian, și cu nașii, Marius și Hortansa, vă invităm la botezul meu sâmbătă, pe 
+ Împreună cu părinții, Silvia și Adrian, și cu nașii, Marius și Ortansa, vă invităm la botezul meu sâmbătă, pe 
  **14 aprilie 2018**.  
  
 ## Locație
