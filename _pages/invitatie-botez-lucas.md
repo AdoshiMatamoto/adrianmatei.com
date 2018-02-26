@@ -87,7 +87,7 @@ gallery:
  
  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/invitatie-botez-lucas/locatii-botez.png" alt="Locatii botez"> 
  
- > Vă rog să confirmați participarea până-n data de **15 martie 2018**. Vă mulțumesc. 
+ > Vă rog să confirmați participarea până-n data de **31 martie 2018**. Vă mulțumesc. 
  
 ## Despre mine
  
