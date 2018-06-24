@@ -16,8 +16,8 @@ tags:
   - nature
 gallery:
 
-  - url: /assets/images/photostories/2015-09-27-bachalpsee-red-hats/1-start-from-first.jpg
-    image_path: /assets/images/photostories/2015-09-27-bachalpsee-red-hats/1-start-from-first.jpg
+  - url: /assets/images/photostories/2015-09-27-bachalpsee-red-hats/1-start-from-first.JPG
+    image_path: /assets/images/photostories/2015-09-27-bachalpsee-red-hats/1-start-from-first.JPG
     alt: "We begin our hike from First"
     title: "We begin our hike from First"
     
