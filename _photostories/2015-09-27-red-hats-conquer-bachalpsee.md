@@ -132,12 +132,12 @@ Lake Bachalpsee travels around the world as a postcard. However, no photo is abl
  You just need to go there and see it for yourself. That does not require much effort. From Grindelwald take the Gondola to First. 
  From First, Lake Bachalpsee can be reached on foot in less than an hour, well maybe two if you travel with small children. 
  
- Click on a photo to see our story:
+## Click on a photo to read our story:
  
  {% include gallery caption="First to Bachalpsee Lake Hike #photostory" %}
  
  
- ## More info:
+## More info:
  
  * [Grindelwald-First](https://www.jungfrau.ch/en-gb/grindelwaldfirst/)
  * [1 FIRST - BACHALPSEE - FIRST Hike](https://www.jungfrau.ch/en-gb/summer-sport/hiking/hiking-trail/1-first-bachalpsee-first-b05993/)
