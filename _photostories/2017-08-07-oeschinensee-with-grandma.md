@@ -8,7 +8,10 @@ grandma is always a good decision..."
 header:
   image: /assets/images/photostories/oeschinensee-with-grandma/header.JPG
 tags:
-  - gallery
+  - hiking
+  - family
+  - oeschinensee
+  - family-trail
 gallery:
   - url: /assets/images/photostories/oeschinensee-with-grandma/1-take-gondola-from-kandersteg.JPG
     image_path: /assets/images/photostories/oeschinensee-with-grandma/1-take-gondola-from-kandersteg.JPG

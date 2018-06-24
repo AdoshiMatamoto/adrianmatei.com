@@ -6,7 +6,11 @@ excerpt: "Journey in pictures from Brienz to the Rothorn summit with the Rothorn
 header:
   image: /assets/images/photostories/brienz-rothorn-trip/brienz-rothorn-bahn-header.jpg
 tags:
-  - gallery 
+  - hiking
+  - family
+  - rothorn
+  - brinz
+  - train
 gallery:
   - url: /assets/images/photostories/brienz-rothorn-trip/0-railway-station-brienz.JPG
     image_path: /assets/images/photostories/brienz-rothorn-trip/0-railway-station-brienz.JPG
