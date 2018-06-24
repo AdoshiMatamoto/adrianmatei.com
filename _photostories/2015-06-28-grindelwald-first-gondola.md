@@ -7,7 +7,10 @@ postcards all over..."
 header:
   image: /assets/images/photostories/grindelwald-first-gondola/header.png
 tags:
-  - grindelwald, first, beo, switzerland 
+  - grindelwald
+  - first
+  - beo
+  - switzerland 
 gallery:
   - url: /assets/images/photostories/grindelwald-first-gondola/1-big-mountains-on-the-left.JPG
     image_path: /assets/images/photostories/grindelwald-first-gondola/1-big-mountains-on-the-left.JPG
