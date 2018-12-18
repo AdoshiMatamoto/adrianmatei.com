@@ -13,7 +13,7 @@ name                     : "Adrian Matei"
 description              : "Personal site of Adrian Matei. Here you can find my resume, my projects and other non-work related material, like travel, cooking"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "amacoder/adrianmatei.me"
+repository               : "adrianmatei-me/adrianmatei.me"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : "adrianmatei.me"
   foursquare       :
-  github           : "amacoder"
+  github           : "adrianmatei-me"
   google_plus      : "AdrianMatei"
   keybase          :
   instagram        : "adrianmatei.me"
