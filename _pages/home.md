@@ -30,7 +30,7 @@ feature_row:
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=Codingpedia&repo=codingmarks&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=Codingpedia&repo=codingmarks&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Get connected [<i class="fa fa-github"></i>](http://github.com/adrianmatei-me) [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/adrian-matei) [<i class="fa fa-twitter"></i>](http://github.com/adrianmatei-me) [<i class="fa fa-instagram"></i>](https://www.instagram.com/adrianmatei.me) [<i class="fa fa-facebook"></i>](https://www.facebook.com/adrianmatei.me)'
+  - excerpt: 'Get connected [<i class="fa fa-github"></i>](http://github.com/adrianmatei-me) [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/adrianmatei-me) [<i class="fa fa-twitter"></i>](http://github.com/adrianmatei-me) [<i class="fa fa-instagram"></i>](https://www.instagram.com/adrianmatei.me) [<i class="fa fa-facebook"></i>](https://www.facebook.com/adrianmatei.me)'
 ---
 
 <div id="home-social-connect" style="font-size:2em">
