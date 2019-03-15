@@ -17,10 +17,9 @@ via the [Coding Friend Program](http://www.codingpedia.org/friends/). Write a po
 <div class="clear"></div>
 <br/>
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/projects/logo-codingpedia.png" alt="Codingpedia Logo" class="align-left logo-project">
-[Codingmarks.org](https://www.codingmarks.org) <br/>
-Collection of (cu)rated coding bookmarks. You can create your personal bookmark list and share selected bookmarks so others can benefit
-It is built with the MEAN stack; fork it on GitHub - [front-end](https://github.com/Codingpedia/codingmarks) and [back-end](https://github.com/Codingpedia/codingmarks-api) 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/projects/logo-bookmarks.png" alt="Codingpedia Logo" class="align-left logo-project">
+[Bookmarks.dev](https://www.bookmarks.dev) <br/>
+Efficient bookmarks manager for developers and co. The public bookmarks are shared on [Github](https://github.com/Codingpedia/bookmarks)  
 
 <div class="clear"></div>
 <br/>
