@@ -7,18 +7,18 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Adrian's Personal Website"
+title                    : "Adrian Matei"
 title_separator          : "-"
 name                     : "Adrian Matei"
 description              : "Personal site of Adrian Matei. Here you can find my resume, my projects and other non-work related material, like travel, cooking"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "amacoder/adrianmatei.me"
+repository               : "adrianmatei-me/adrianmatei.me"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : staticman # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -30,7 +30,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master"
+  branch                 : "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -56,6 +56,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : "adrianmatei_me"
+instagram:
+  username               : "adrianmatei.me"
 facebook:
   username               : "adrianmatei.me"
   app_id                 :
@@ -67,12 +69,17 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/adrianmatei_me"
+    - "https://www.facebook.com/adrianmatei.me"
+    - "https://www.facebook.com/adrianmatei.me"
+    - "https://www.linkedin.com/in/adrianmatei-me"
+    - "https://plus.google.com/+AdrianMatei"
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-102414711-1"
 
 
 # Site Author
@@ -89,12 +96,12 @@ author:
   flickr           :
   facebook         : "adrianmatei.me"
   foursquare       :
-  github           : "amacoder"
-  google_plus      :
+  github           : "adrianmatei-me"
+  google_plus      : "AdrianMatei"
   keybase          :
   instagram        : "adrianmatei.me"
   lastfm           :
-  linkedin         : "adrian-matei"
+  linkedin         : "adrianmatei-me"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -234,6 +241,8 @@ compress_html:
 collections:
   photostories:
     output: true
+  booknotes:
+    output: true
     permalink: /:collection/:path/
 
 # Defaults
@@ -253,6 +262,15 @@ defaults:
   - scope:
       path: ""
       type: photostories
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _booknotes
+  - scope:
+      path: ""
+      type: booknotes
     values:
       layout: single
       author_profile: true
