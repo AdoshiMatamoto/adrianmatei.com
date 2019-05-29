@@ -1,9 +1,11 @@
 # main links
 main:
   - title: "Resume"
-    url: "https://www.linkedin.com/in/adrian-matei"
+    url: "https://www.linkedin.com/in/adrianmatei-me"
   - title: "Photostories"
     url: /photostories/
+  - title: "Book notes"
+    url: /booknotes/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

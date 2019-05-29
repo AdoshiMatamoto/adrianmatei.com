@@ -1,7 +1,16 @@
 ---
-title: "Getting to the top with the Brienz Rothorn Railyway "
+title: "Getting to the Rothorn summit with the Brienz Rothorn Railyway"
+date: 2017-06-18
+permalink: "/photostories/brienz-rothorn-railway-trip/"
+excerpt: "Journey in pictures from Brienz to the Rothorn summit with the Rothorn-Brienz-Railway. An amazing view on the Brienz Lake and surrounding Swiss Alps is guaranteed. Just watch the Photo Gallery."
+header:
+  image: /assets/images/photostories/brienz-rothorn-trip/brienz-rothorn-bahn-header.jpg
 tags:
-  - gallery 
+  - hiking
+  - family
+  - rothorn
+  - brinz
+  - train
 gallery:
   - url: /assets/images/photostories/brienz-rothorn-trip/0-railway-station-brienz.JPG
     image_path: /assets/images/photostories/brienz-rothorn-trip/0-railway-station-brienz.JPG
@@ -145,10 +154,32 @@ gallery:
     title: "Or have a closer look at the lake church, spotted on your way up"                                                                                                                                                  
 ---
 
-A must do journey you need to take if you are in the Interlaken area of Switzerland. Once you reach the top you have
- amazing view on the Lake Brienz (German: Brienzersee) and the surrounding Swiss Alps, topping with Jungfrau, Mönch and Eiger. 
-  The trip up and down by the steam train is lots of fun too. But I'll the pictures speak for themselves:
+A journey you just need to make if you are around Lake Brienz (German: Brienzersee) in the mountainous Bernese Oberland region of central Switzerland.
+ Once you reach the top you have amazing view on the lake and the surrounding Swiss Alps (amongst others Jungfrau, Mönch and Eiger). 
+  The trip up and down by the steam train is lots of fun too. But I'll let the pictures speak for themselves - **click on a picture to 
+  start the gallery**:
   
- {% include gallery caption="This is a sample gallery with **Markdown support**." %}
+ {% include gallery caption="Brienz Rothorn Railway #photostory" %}
  
- This is some text after the gallery just to make sure that everything aligns properly.
+ Check out the [Brienz-Rothorn-Bahn website](http://brienz-rothorn-bahn.ch/?lang=en) to get more information about timetable, prices, restaurant and hiking possibilities.
+ 
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//adrianmatei.us16.list-manage.com/subscribe/post?u=711ed49399c4a65a8a8ecfc36&amp;id=b44f87f39a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Be the first to get the latest photo story</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_711ed49399c4a65a8a8ecfc36_b44f87f39a" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->

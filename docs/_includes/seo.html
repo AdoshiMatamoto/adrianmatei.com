@@ -63,6 +63,9 @@
   {% if page.header.image %}
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | absolute_url }}{% endif %}">
+  {% elsif page.bookcover %}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{% if page.header.bookcover contains "://" %}{{ page.bookcover }}{% else %}{{ page.bookcover | absolute_url }}{% endif %}">
   {% else %}
     <meta name="twitter:card" content="summary">
     {% if page.header.teaser %}
@@ -93,6 +96,8 @@
   <meta property="og:image" content="{% if page.header.overlay_image contains "://" %}{{ page.header.overlay_image }}{% else %}{{ page.header.overlay_image | absolute_url }}{% endif %}">
 {% elsif page.header.teaser %}
   <meta property="og:image" content="{% if page.header.teaser contains "://" %}{{ page.header.teaser }}{% else %}{{ page.header.teaser | absolute_url }}{% endif %}">
+{% elsif page.bookcover %}
+  <meta property="og:image" content="{% if site.og_image contains "://" %}{{ page.bookcover }}{% else %}{{ page.bookcover | absolute_url }}{% endif %}">
 {% elsif site.og_image %}
   <meta property="og:image" content="{% if site.og_image contains "://" %}{{ site.og_image }}{% else %}{{ site.og_image | absolute_url }}{% endif %}">
 {% endif %}
