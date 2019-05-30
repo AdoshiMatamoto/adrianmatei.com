@@ -7,7 +7,9 @@ bookcover: /assets/images/booknotes/bookcovers/peaceful-parent-happy-kids.jpg
 tags:
   - parenting
   - education
----After reading this book I can sum it up in one sentence - it's all about unconditional love we need to show to our children at times they need it the most. It's that emotional connection to them we cherish, that we need to foster 
+---
+
+After reading this book I can sum it up in one sentence - it's all about unconditional love we need to show to our children at times they need it the most. It's that emotional connection to them we cherish, that we need to foster 
 to make it last for a lifetime. In the book I discovered also practical tools I needed to transform my parenting in a positive way.
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=adrianmatei.me-20&marketplace=amazon&region=US&placement=B01HSMRWNU&asins=B01HSMRWNU&linkId=b0e1db93755725a19ff449189e226e66&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
     </iframe> 
@@ -17,7 +19,9 @@ to make it last for a lifetime. In the book I discovered also practical tools I 
     
 ## Book highlights and notes
 
-Parenting isn’t about what our child does, but about how we respond.Your child will delight and exasperate you, thrill and annoy you. By accident, really, your child will ask you to grow, too. If you can notice when you’re triggered and restore yourself to equilibrium before you take action, if you can soothe your own anxiety, if you can reflect on your own experience and make peace with it, you can raise happy, emotionally healthy children who are successful in every sense.
+Parenting isn’t about what our child does, but about how we respond.
+
+Your child will delight and exasperate you, thrill and annoy you. By accident, really, your child will ask you to grow, too. If you can notice when you’re triggered and restore yourself to equilibrium before you take action, if you can soothe your own anxiety, if you can reflect on your own experience and make peace with it, you can raise happy, emotionally healthy children who are successful in every sense.
                 
 Usually, in parenting and in life, the best response to upsetting emotions is to reflect, not react. In other words, don’t take action while you’re triggered.
                 
