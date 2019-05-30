@@ -11,7 +11,7 @@ title: "Projects"
  
 [Codepedia.org](http://www.codepedia.org) <br/>
 Open source blog built with [Jekyll](https://jekyllrb.com/) where I write about programming related subjects. Guest posts are also permitted 
-via the [Coding Friend Program](http://www.codepedia.org/friends/). Write a post and make a pull request on [GitHub](https://github.com/Codingpedia/codepediaorg.github.io).
+via the [Coding Friend Program](http://www.codepedia.org/friends/). Write a post and make a pull request on [GitHub](https://github.com/CodepediaOrg/codepediaorg.github.io).
 
 
 <div class="clear"></div>
