@@ -12,7 +12,7 @@ feature_row:
   - image_path: /assets/images/home/projects-featuring-bookmarks.png
     alt: "Projects"
     title: "Projects"
-    excerpt: "Favorite projects I initiated. Most of them are open source - [www.codingpedia.org](http://www.codingpedia.org), [www.bookmarks.dev](https://www.bookmarks.dev)"
+    excerpt: "Favorite projects I initiated. Most of them are open source - [www.codepedia.org](https://www.codepedia.org), [www.bookmarks.dev](https://www.bookmarks.dev)"
     url: "/projects/"
     btn_label: "Learn More"
   - image_path: /assets/images/home/photostories.png
@@ -24,11 +24,12 @@ feature_row:
   - image_path: /assets/images/home/blog.png
     alt: "Blog"
     title: "Blog"
-    excerpt: "I write here about non-programming related subjects. Otherwise visit [www.codingpedia.org](http://www.codingpedia.org)"
+    excerpt: "I write here about non-programming related subjects. Otherwise visit [www.codepedia.org](https://www.codepedia.org)"
     url: "/blog/"
     btn_label: "Learn More"
 github:
-  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=Codingpedia&repo=bookmarks&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=Codingpedia&repo=bookmarks&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=CodepediaOrg&repo=bookmarks&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+   <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=CodepediaOrg&repo=bookmarks&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
   - excerpt: 'Get connected [<i class="fa fa-github"></i>](http://github.com/adrianmatei-me) [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/adrianmatei-me) [<i class="fa fa-twitter"></i>](http://github.com/adrianmatei-me) [<i class="fa fa-instagram"></i>](https://www.instagram.com/adrianmatei.me) [<i class="fa fa-facebook"></i>](https://www.facebook.com/adrianmatei.me)'
 ---
