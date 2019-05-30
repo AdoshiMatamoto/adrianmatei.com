@@ -15,7 +15,9 @@ to make it last for a lifetime. In the book I discovered also practical tools I 
     </iframe>
     
     
-## Book highlights and notesParenting isn’t about what our child does, but about how we respond.Your child will delight and exasperate you, thrill and annoy you. By accident, really, your child will ask you to grow, too. If you can notice when you’re triggered and restore yourself to equilibrium before you take action, if you can soothe your own anxiety, if you can reflect on your own experience and make peace with it, you can raise happy, emotionally healthy children who are successful in every sense.
+## Book highlights and notes
+
+Parenting isn’t about what our child does, but about how we respond.Your child will delight and exasperate you, thrill and annoy you. By accident, really, your child will ask you to grow, too. If you can notice when you’re triggered and restore yourself to equilibrium before you take action, if you can soothe your own anxiety, if you can reflect on your own experience and make peace with it, you can raise happy, emotionally healthy children who are successful in every sense.
                 
 Usually, in parenting and in life, the best response to upsetting emotions is to reflect, not react. In other words, don’t take action while you’re triggered.
                 
