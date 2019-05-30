@@ -5,9 +5,9 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home/workplace-min.png
   cta_label: "<i class='fa fa-download'></i> Install Now"
-  cta_url: "https://github.com/Codingpedia/bookmarks/"
+  cta_url: "https://github.com/CodepediaOrg/bookmarks/"
   caption:
-excerpt: 'Software engineer hooked on coding, spending time outdoors and practicing basically any kind of sports. Currently expanding bookmarks for developers & co<br /> <small><a href="https://github.com/Codingpedia/bookmarks/">Dev Bookmarks</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=Codingpedia&repo=bookmarks&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=Codingpedia&repo=bookmarks&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: 'Software engineer hooked on coding, spending time outdoors and practicing basically any kind of sports. Currently expanding bookmarks for developers & co<br /> <small><a href="https://github.com/CodepediaOrg/bookmarks/">Dev Bookmarks</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=Codingpedia&repo=bookmarks&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=Codingpedia&repo=bookmarks&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
   - image_path: /assets/images/home/projects-featuring-bookmarks.png
     alt: "Projects"
