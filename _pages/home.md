@@ -12,7 +12,7 @@ feature_row:
   - image_path: /assets/images/home/projects-featuring-bookmarks.png
     alt: "Projects"
     title: "Projects"
-    excerpt: "Favorite projects I initiated. Most of them are open source - [www.codepedia.org](https://www.codepedia.org), [www.bookmarks.dev](https://www.bookmarks.dev)"
+    excerpt: "Favorite projects I started. Most of them are open source - [www.codepedia.org](https://www.codepedia.org), [www.bookmarks.dev](https://www.bookmarks.dev)"
     url: "/projects/"
     btn_label: "Learn More"
   - image_path: /assets/images/home/photostories.png
