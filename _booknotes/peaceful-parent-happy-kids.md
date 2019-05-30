@@ -2,7 +2,7 @@
 title: "Peaceful parent, happy kids"
 date: 2018-10-20
 excerpt: "After reading this book I can sum it up in one sentence - it's all about unconditional love we need to show to our 
-          our children at times they need it the most."
+          children at times they need it the most."
 bookcover: /assets/images/booknotes/bookcovers/peaceful-parent-happy-kids.jpg
 tags:
   - parenting
