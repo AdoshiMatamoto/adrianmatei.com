@@ -11,7 +11,7 @@ title                    : "Adrian Matei"
 title_separator          : "-"
 name                     : "Adrian Matei"
 description              : "Personal site of Adrian Matei. Here you can find my resume, my projects and other non-work related material, like travel, cooking"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.adrianmatei.me
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "adrianmatei-me/adrianmatei.me"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
