@@ -1,5 +1,5 @@
 ---
-title: Awesome video compilation of volleyball fundamentals
+title: Awesome video list of volleyball fundamentals
 excerpt: "I have created this post to use as reference with a list of volleyball fundamentals videos covering topics like warm up, passing, setting, serving and attack.
 It addresses mainly individual game."
 header:
@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Artham Srivastava**](https://pixabay.com/users/artham123as-1877981/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1435198)"
 thumbnail: /assets/images/posts/volleyball-fundamentals/volleyball-fundamentals-thumbnail.png
-permalink: /sport/awesome-video-compilation-of-volleyball-fundamentals
+permalink: /sport/awesome-video-list-of-volleyball-fundamentals
 published: true
 categories:
   - sport
@@ -164,7 +164,7 @@ Learn how to block the volleyball as a right front blocker (right side attacker,
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kvboO73vkIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conclusion
-I hope you find the compilation useful. In Romanian we have a saying: "It's practice that kills you, not theory", so go practice.
+I hope you find this list useful, but in Romania we have a saying: "It's practice that kills you, not theory", so go practice.
 My advice to you is for your next training or match focus on improving one part of your game!
 
 
