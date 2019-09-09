@@ -16,7 +16,7 @@ tags:
 ---
 
 To do sports is fun and healthy, but doing it right brings you more joy and satisfaction. This is also the case for volleyball, which I 
-started playing again this summer at a local club - [awesome group](https://volleyliebefeld.ch/#post-78) there, thank you guys for having me.
+started playing again this summer at a local club - [awesome group](https://volleyliebefeld.ch/#post-78), thank you guys for having me.
 With a couple of exceptions it's been like 20 years ago in high school when I played volleyball "semi-professionally" and memory of the game got a little bit rusty,
 so  I needed a refresh. According to the motto "one picture is worth a thousand words, and one video a thousand pictures",
 I thought I checked some youtube videos created by professionals, which show basic but very important 
