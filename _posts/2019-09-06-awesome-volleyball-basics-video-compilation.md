@@ -27,13 +27,15 @@ you can check them out [here](http://www.fivb.ch/EN/Refereeing-Rules/RulesOfTheG
 so some videos are specific for these positions. 
 
 I want to pay a special tribute to Coach Donny from [elevateyourself.org](https://www.elevateyourself.org/) for taking the time to create and put these videos out there.
- 
+
+**Table of contents** 
+
 * TOC
 {:toc} 
 
 > I must recognise I wish I knew some of the techniques shown here 20 years ago, but it's never too late to learn something new, is it?
 
-## Warm up
+## **Warm up**
 I can't stress this enough but warming up might be the **most important**, yet by many considered (including me) most boring, part of the training.
 It serves mainly two purposes:
 1. it decrease the risk of injuries
@@ -57,7 +59,7 @@ Learn how to warm up your upper body for volleyball, which will prepare you body
 What you should take from the following video is the length of it. **You should properly warm up at least 15min before touching the ball**.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fMnfPUnVnnY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Passing / Pass
+## **Passing / Pass**
 A **volleyball pass** is a done with the objective to move the ball to a teammate called a setter.
 There are basically two types of passing techniques:
 1. **FOREARM PASS** (the most common) - join your arms from the elbows to the wrists and strike the ball with the fleshy part of your forearms in an underhand motion.
@@ -79,7 +81,7 @@ Key takeaways
 4. Platform Management
 
 
-## Set / Setting the ball
+## **Set / Setting the ball**
 The tactical skill in which a ball is directed to a point where a player can spike it into the opponent’s court.
 
 ### Jim Stone Talks Volleyball Setting Release - 5min
@@ -98,7 +100,7 @@ when it comes to what setters should be doing when they are in different situati
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FoeCWj1BaAA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Serve
+## **Serve**
 
 ### How to Improve Your Volleyball Serving with Olympic Gold Medalist Misty May
 Olympic Gold Medalist and Sportskool coach Misty May serves up the proper techniques for the jump, float, and jump float serves.   
@@ -121,7 +123,7 @@ Learn how to aim your jump serve in volleyball by watching this volleyball instr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LTSdEJvvXCM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Attack
+## **Attack**
 
 ### Jim Stone Talks Developing Proper Volleyball Armswing Mechanics - 26min
 Jim Stone talks through and shows ways to train proper arm swing mechanics for a volleyball swing. Though he says 
@@ -152,7 +154,7 @@ how to position your body and the most efficient arm swing.
 Learn how to effectively spike from the back row with power and consistency! 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sowN4TPncuw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Block
+## **Block**
 A defensive play by one or more players meant to deflect a spiked ball back to the hitter’s court. It may
 be a combination of one, two or three players jumping in front of the opposing spiker and contacting the spiked ball with the hands.
 
