@@ -1,6 +1,6 @@
 ---
 title: Awesome video list of volleyball fundamentals
-excerpt: "I have created this post to use as reference with a list of volleyball fundamentals videos covering topics like warm up, passing, setting, serving and attack.
+excerpt: "A list of volleyball fundamentals videos covering topics like warm up, passing, setting, serving and attack.
 It addresses mainly individual game."
 header:
   overlay_image: /assets/images/posts/volleyball-fundamentals/volleyball-fundamentals-header.png
