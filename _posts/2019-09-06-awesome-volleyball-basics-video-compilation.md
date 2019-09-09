@@ -80,6 +80,7 @@ Key takeaways
 3. Shuffle Step - Keep Head Level
 4. Platform Management
 
+First blog post on my personal website, y not be about something I love?
 
 ## **Set / Setting the ball**
 The tactical skill in which a ball is directed to a point where a player can spike it into the opponent’s court.
@@ -165,7 +166,7 @@ Learn how to block the volleyball as a right front blocker (right side attacker,
 
 ## Conclusion
 I hope you find this list useful, but in Romania we have a saying: "It's practice that kills you, not theory", so go practice.
-My advice to you is for your next training or match focus on improving one part of your game!
+My advice to you is for your next training or match focus on improving one part of your game, I know I will!
 
 
 ## References
