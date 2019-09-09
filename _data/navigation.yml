@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Blog"
+    url: /blog/
   - title: "Resume"
     url: "https://www.linkedin.com/in/adrianmatei-me"
   - title: "Photostories"
