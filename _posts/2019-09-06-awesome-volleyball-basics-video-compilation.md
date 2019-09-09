@@ -176,8 +176,8 @@ My advice to you is for your next training or match focus on improving one part 
 ## Appendix
 Well now that you know the basics, it's now time to move it up a notch and start dreaming big:
  
-### [Italy vs Brazil – Men's Volleyball Gold Medal Match at Rio 2016]
+### Italy vs Brazil – Men's Volleyball Gold Medal Match at Rio 2016
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KLIa2UaE2KE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [France v Brazil - Full Match - Final Round Pool A | Men's VNL 2018](https://www.youtube.com/watch?v=tlyGu1-kKVM)
+### France v Brazil - Full Match - Final Round Pool A | Men's VNL 2018
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tlyGu1-kKVM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
