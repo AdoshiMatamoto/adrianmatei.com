@@ -1,6 +1,6 @@
 ---
 title: Ice skating fundamentals video list
-excerpt: "A list of videos to help me remember easier ice skating fundamental skills. Once you have mastered theses skills, you will probably skate better
+excerpt: "A list of videos to help me easier remember ice skating fundamental skills. Once you have mastered theses skills, you will probably skate better
 than most of the people on the rink."
 header:
   overlay_image: /assets/images/posts/iceskating-fundamentals/iceskating-fundamentals-header.png
