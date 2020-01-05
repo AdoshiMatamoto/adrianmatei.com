@@ -7,12 +7,12 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Artham Srivastava**](https://pixabay.com/users/artham123as-1877981/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1435198)"
 thumbnail: /assets/images/posts/volleyball-fundamentals/volleyball-fundamentals-thumbnail.png
-permalink: /sport/awesome-video-list-of-volleyball-fundamentals
+permalink: /blog/sport/awesome-video-list-of-volleyball-fundamentals
 published: true
 categories:
   - sport
 tags:
-  - volleyball
+  - volleyball, hobby
 ---
 
 To do sports is fun and healthy, but doing it right brings you more joy and satisfaction. This is also the case for volleyball, which I 
