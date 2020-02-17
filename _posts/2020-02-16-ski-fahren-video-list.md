@@ -63,7 +63,7 @@ Die wesentlichen Knackpunkte zum Ski-Carving nochmal als kurze Übersicht dar. I
 ### Eisplatten & eisige Pisten: 3+ Tipps fürs Skifahren - 8min
 Egal, ob Eisplatten oder die eisige, angefrorene Piste am Morgen: Die Tipps und Tricks in diesem YouTube Tutorial helfen dir beim Skifahren bei solchen Verhältnissen.
  Es geht dabei um mentale Gesichtspunkt, aber auch um die Skitechnik und um dein Equipment. 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xE4mfQnUwuk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RoKx3X5tdV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### SKIFAHREN 101 // WIE FAHRE UND CARVE ICH STEILE UND EISIGE PISTEN // - 7min
 Steile und Eisige Piste. Wie bewältige ich die am Besten?
