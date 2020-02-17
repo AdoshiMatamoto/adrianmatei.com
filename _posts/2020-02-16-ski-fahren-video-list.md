@@ -44,6 +44,8 @@ Drei wesentliche Knackpunkte ausgearbeitet, auf die du bei deiner Ski-Technik ac
 2. Fahren über Lage
 3. Verdrehte Hüfte
 
+Im Video werden auch korrigierende Massnahmen besprochen und vorgezeigt
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pZMPNONyzg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Top 3 Übungen für perfektes Ski-Carving - 10 min
