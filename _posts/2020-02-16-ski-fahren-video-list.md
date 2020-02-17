@@ -16,8 +16,8 @@ tags:
 ---
 
 Die Skiferien stehen bevor. Wenn ich nach einer langen Pause wieder auf die Skis stehe und meine erste Abfahrt hinter mir habe,
-fühle mich ein bisschen komisch und unsicher. Um dieses Gefühl zu minimieren, versuche ich davoc die Theorie ein bisschen zu erfrischen.
-Dazu Videos anschauen ist für mich das beste. Von daher habe ich hier eine Liste mit meinen liebling Videos aufgelistet, worauf
+fühle mich ein bisschen komisch und unsicher. Um dieses Gefühl zu minimieren, versuche ich davor die Theorie ein bisschen zu erfrischen.
+Dazu, Videos anschauen ist für mich das beste. Von daher habe ich hier eine Liste mit meinen liebling Videos aufgelistet, worauf
 ich jederzeit zugreifen kann, statt auf Youtube durchsuchen zu müssen. 
 
 
@@ -39,6 +39,11 @@ Drei wesentliche Knackpunkte ausgearbeitet, auf die du bei deiner Ski-Technik ac
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xE4mfQnUwuk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 3 fatale Fehler beim Carving - 7min
+
+1. Oberkörperrotation
+2. Fahren über Lage
+3. Verdrehte Hüfte
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pZMPNONyzg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Top 3 Übungen für perfektes Ski-Carving - 10 min
@@ -49,7 +54,7 @@ Die wesentlichen Knackpunkte zum Ski-Carving nochmal als kurze Übersicht dar. I
 - Übung 2: Pedalo ® fahren und die Belastung verteilen
 - Übung 3: Jäger/Dackel als Training zum Oberkörperausgleich
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pZMPNONyzg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/limcRh4CSJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Eisige Pisten bewältigen
 
