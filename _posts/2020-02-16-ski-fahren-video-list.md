@@ -69,5 +69,37 @@ Egal, ob Eisplatten oder die eisige, angefrorene Piste am Morgen: Die Tipps und 
 Steile und Eisige Piste. Wie bewältige ich die am Besten?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/binVbFH3LPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Kurzschwung
+
+### Ski-Kurzschwung Technik für Einsteiger - 7min
+
+Vier wesentliche Knackpunkte, auf die du bei deiner Ski-Technik achten solltest:
+- KSP (Bewegung) nach vorn - um Druck auf Schaufel aufzubauen und den Ski bewusst steuern zu können. Keine unnötige Vertikalbewegung einbauen. Schneekontakt halten, damit der Kanteneinsatz Wirkung hat. 
+- Bewusstes Aufkanten - das aber auch dosiert passieren muss (kein Scheibenwischer). Möglichst früher Druckaufbau auf Außenski möglichst vor der Falllinie.
+ Bewegung nach vorne innen. Innenbein ermöglicht diese Bewegung.
+- Oberkörperstabilität - Oberkörper bringt Stabilität und ist taloffen ausgerichtet. Stabilität, da kurve direkt an Kurve folgt.;
+ die Beine initiieren die Bewegung. "Oben stabil, unten agil"
+- Rhythmus - entscheidend für sportliche, runde Fahrt
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/34wnS8-FtOQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Ski Kurzschwung / 3 fatale Fehler & deren Lösungen - 8min
+
+1. Rücklage
+2. Oberkörperrotation - muss "oben stabil, unten agil"
+3. Scheibenwischer - Druckaufbau schon am Anfang der Kurve
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Va9F7vGVZcM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Top 5 Kurzschwung Übungen - 13min
+
+- Radius: Trichter Fahrt (Bewegungen bleiben, kompakter)
+- Pflugbogen Druck geben (Kantwinkel erhöhen, bewusst Druck geben)
+- Doppelstockeinsatz (KSP nach vorn)
+- Fenster mit Stöcken für Oberkörperstabilität (Unten agil, oben stabil) 
+- Takt akustisch vorgeben 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aaijA0-ZujA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Conclusion
 Ab auf die Piste und beginne zu trainieren!
