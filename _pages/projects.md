@@ -19,12 +19,9 @@ via the [Coding Friend Program](http://www.codepedia.org/friends/). Write a post
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/projects/logo-bookmarks.png" alt="Bookmarks.dev Logo" class="align-left logo-project">
 [Bookmarks.dev](https://www.bookmarks.dev) <br/>
-Bookmarks Manager for Developers & Co . You can create your personal bookmark list and share selected bookmarks so others can benefit
-They are also on [GitHub](https://github.com/CodepediaOrg/bookmarks) 
+Bookmarks and Codelets Manager for Developers & Co. Create your personal bookmark and code snippet lists and share selected ones so others can benefit
+Public bookmarks are published on [GitHub](https://github.com/BookmarksDev/bookmarks) 
 
 <div class="clear"></div>
 <br/>
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/projects/logo-podcastpedia.png" alt="Podcastpedia Logo" class="align-left logo-project">
-[Podcastpedia.org](https://www.podcastpedia.org) <br/>
-Open source podcast directory built with Spring MVC and MyBatis. Fork it on [GitHub](https://github.com/PodcastpediaOrg/podcastpedia).  
