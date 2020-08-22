@@ -121,6 +121,19 @@ This video teaching you about the good areas and bad areas to serve the ball
 5. Practice and experiment
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hTrWIrFfmgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Sidespin (pendulum) serve - tips and tactics - 8min
+* In this video, I show you how to do a forehand sidespin serve (also known as a pendulum serve). 
+* This is one of my favourite serves. I like it because you can do lots of different spin and placement variations to put your opponent under pressure.
+* In the video, I explain how to do the serve, how to get lots of spin, how to vary spin and how to use the serve to set up a 3rd ball attack.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NFCgf-41SmM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### 3 Steps to master the backspin GHOST SERVE | TableTennisDaily - 9min
+The heavy backspin serve that spins back to the net is one that players often want to learn and you may have heard called
+ the ghost serve. This serve can help you understand the process of creating spin on all your other serves too
+  so is fantastic to learn and understand! We've created this step by step guide so you can master it too! 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8nHUUOXkdxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
 ### Learning Incredible Hook Serve (Super Topspin) - 15min
 * [5:14](https://www.youtube.com/watch?v=Q2AKWA6adGc&t=314s) hook long backspin 
 * [7:14](https://www.youtube.com/watch?v=Q2AKWA6adGc&t=434s) hook topspin serve
@@ -166,7 +179,7 @@ In the video Craig explains...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-K1Kuox4NL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Receving
+## Receiving
 
 ### Receiving options - 2min
 
