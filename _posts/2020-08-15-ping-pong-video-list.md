@@ -89,6 +89,17 @@ Backhand Topspin Against Backspin | PingSkills - 7min
 Learning UNBEATABLE Block - Technique, Tactics | MLFM Table Tennis Tutorial - 10min
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o1HZQ5H2XKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Blocking tactics to mess up your opponents | Tom Lodziak - 9min
+* Switch Block @ 0:55
+* Fast Block @ 2:43
+* Slow Block @ 4:03
+* Chop Block @ 5:35
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P2dAsl9qojY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+How to do a CHOP BLOCK (with Craig Bryant) - 7min
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SjJ49BXh5Mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Flick
 
 ### Forehand Flick - PingSkills - 7min
