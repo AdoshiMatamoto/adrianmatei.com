@@ -194,6 +194,13 @@ In the video Craig explains...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-K1Kuox4NL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Timo Boll super slow motion. Services which side spin, reverse pendulum, backspin
+🏓 This video shows various services of Timo Boll in slow motion and HD. In these you can see in more detail the gestures and positions,
+ the grip of the shovel and other details for each of the services performed by this extraordinary and already legendary German tennis player.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-K1Kuox4NL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Receiving
 
 ### Receiving options - 2min
