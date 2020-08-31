@@ -162,6 +162,17 @@ In the video, Craig explains the basic backhand service motion. He demonstrates 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WqCJMuUoaPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### How to get more spin on your serves (with Craig Bryant) - 7min
+In this video, top coach and service expert, Craig Bryant, explains how to get more spin on your serves.
+
+Having spinny serves will help you put your opponent under more pressure, make mistakes or give weaker return of serves. 
+
+In the video, Craig shows how to generate spin using your forearm and wrist. He demonstrates how to generate backspin, sidespin and topspin and crucially how to generate MORE backspin, sidespin and topspin.
+
+Brush + wrist + racket speed = SPIN
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JRN4q8mdwJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 4 killer serves to destroy your opponents (with Craig Bryant) - 12min
 In this video, top coach and service expert, Craig Bryant, explains how to do four of his best serves.
 
