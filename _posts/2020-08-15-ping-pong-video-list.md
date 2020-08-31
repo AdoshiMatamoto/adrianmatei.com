@@ -53,6 +53,16 @@ Learn the basics in Table Tennis footwork.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M0v5SvlD1oQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Spin
+### 5 Tips to produce killer spin (Table Tennis Daily) - 8min
+1. Legs and body (nice & low)
+2. Brushing the ball (two drills)
+3. Feeling and control
+4. Bat angle 
+5. Acceleration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/--CEqSDd5yQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Top spin
 ### Advanced Forehand Topspin (Loop) PingSkills - 8min
 Once you've mastered the start and finish position of the forehand topspin, you can start to focus on finer details.
