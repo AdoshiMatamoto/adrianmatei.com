@@ -249,6 +249,18 @@ Of course, it is fine to push or touch short backspin serves, but if you can lea
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KkzfyXgOWUo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Match
+### 5 Most Effective Strategies To Win At Table Tennis! (Table Tennis Daily)- 11min
+In this video we show you 5 effective match winning strategies that will help you improve your game and results.
+ We demonstrate and explain how to implement these strategies as well as showing real life match examples of them in action. 
+ * Play to elbow
+ * Don't force it
+ * Quality of spin
+ * Awareness of the opponent
+ * Make your serve count
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yxnj6qMaW1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Next steps
 Practice, practice, practice!!!
 
