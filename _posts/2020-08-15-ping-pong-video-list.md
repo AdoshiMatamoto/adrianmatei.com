@@ -268,5 +268,14 @@ Practice, practice, practice!!!
 ### Super Slow Motion 🏓 Cámara lenta. 2015 Men's World Cup. MA Long, Fan Zhendong & OVTCHAROV
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gbuddNYVJCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### FULL MATCH - Tomokazu Harimoto vs Ma Long (2018) | BEST of Japan Open
+### Matches
+Best watched in slow motion.
+
+#### FULL MATCH - Tomokazu Harimoto vs Ma Long (2018) | BEST of Japan Open
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RlJEE-s7BjQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Ma Long vs Xu Xin | 2020 ITTF German Open Highlights (Final)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KpkBaXWrSho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Timo Boll vs Darko Jorgic | MS-FINAL | 2020 - Europe Top 16
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uRF7o2oPVks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
