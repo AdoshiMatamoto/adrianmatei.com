@@ -279,3 +279,15 @@ Best watched in slow motion.
 
 #### Timo Boll vs Darko Jorgic | MS-FINAL | 2020 - Europe Top 16
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uRF7o2oPVks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Fan Zhendong vs Liam Pitchford | 2020 ITTF Qatar Open Highlights (Final)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iU_gB5I4pxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Ma Long vs Fan Zhendong | 2019 ITTF-ATTU Asian Cup (Final)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEX6xxNCJY8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Dimitrij Ovtcharov vs Fan Zhendong | 2020 ITTF German Open Highlights (1/4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FzJlNlau_gU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Ma Long vs Dimitrij Ovtcharov | 2020 ITTF German Open Highlights (1/2)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2QpIP5z0gxY}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
