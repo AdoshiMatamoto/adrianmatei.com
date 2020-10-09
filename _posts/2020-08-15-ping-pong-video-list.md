@@ -84,7 +84,7 @@ If you are an aggressive player you still will have times when your opponent att
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-3O1JaVzMDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##Backspin
+## Backspin
 
 ### How to read the amount of spin (with Mark Mitchell) - 7min
 In this video, pro coach Mark Mitchell explains how to read the amount of spin when playing table tennis. 
@@ -104,12 +104,8 @@ Mark explains how to read heavy backspin, light backspin and float. He also expl
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LmQNDC-1Ew0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Block
-Learning UNBEATABLE Block - Technique, Tactics | MLFM Table Tennis Tutorial - 10min
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o1HZQ5H2XKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br/>
-
-Blocking tactics to mess up your opponents | Tom Lodziak - 9min
+### Blocking tactics to mess up your opponents | Tom Lodziak - 9min
 * Switch Block @ 0:55
 * Fast Block @ 2:43
 * Slow Block @ 4:03
@@ -118,9 +114,59 @@ Blocking tactics to mess up your opponents | Tom Lodziak - 9min
 
 <br/>
 
-How to do a CHOP BLOCK (with Craig Bryant) - 7min
+### Brilliant blocking skills | Pro tips from PAUL DRINKHALL - 8min
+In this video, pro player Paul Drinkhall, shows off his brilliant blocking skills.
+
+Blocking is great for returning your opponent's topspin shots, and turning defence into attack.
+
+In the video, Paul shares his blocking tips, discussing technique, placement and gaining a psychological advantage over your opponent.
+
+I also take Paul on in a match. I'm allowed to attack, but Paul is only allowed to block. Who will win?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QU-Wlvz_JX0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+### Learning UNBEATABLE Block - Technique, Tactics | MLFM Table Tennis Tutorial - 10min
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o1HZQ5H2XKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+
+### How to do a CHOP BLOCK (with Craig Bryant) - 7min
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SjJ49BXh5Mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Push
+
+### Forehand Push | Table Tennis | PingSkills - 4min
+Learn how to play the forehand push in Table Tennis
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3D9VWKR-iFc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### 5 backhand push tactics to beat your opponent - 11min
+In this video, I show 5 different ways you can use your backhand push to beat your opponent. Don't think of a backhand push as a passive shot which just keeps the ball in play. You can use your backhand push in a variety of ways to put your opponent under pressure, play weak shots or make mistakes. The 5 different backhand push tactics I show are... 
+
+1. The quick push
+2. The long push
+3. The short push
+4. The sidespin push
+5. The hack
+
+Try them all out and see which options work best for you!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rPwOycoaxE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### How to do an EVIL attacking push (with Craig Bryant) - 7min
+In this video, top coach Craig Bryant, explains how to do an attacking push.
+
+A push shot is usually considered to be a defensive shot. Too often it is used as a passive way to return a backspin serve.
+
+But you can be much more aggressive with your push. By using extra speed, spin and depth, you can transform your basic push shot into something a bit evil. Something which can really mess your opponent up.
+
+In the video, Craig explains and demonstrates how to do an attacking push. Plus there is lots of footage of me really struggling to cope with his push!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tE1v7b3NLP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Flick
 
