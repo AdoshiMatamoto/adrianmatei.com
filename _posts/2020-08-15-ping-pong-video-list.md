@@ -333,6 +333,9 @@ Practice, practice, practice!!!
 ### Matches
 Best watched in slow motion.
 
+#### Ma long Fan Zhendong 2019 slow motion (Match Highlights + Slow motions), You dont need to forward.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L8Qr6g60Fj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### FULL MATCH - Tomokazu Harimoto vs Ma Long (2018) | BEST of Japan Open
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RlJEE-s7BjQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
