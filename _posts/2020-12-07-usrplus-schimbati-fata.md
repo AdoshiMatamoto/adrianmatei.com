@@ -1,6 +1,8 @@
 ---
 title: USR PLus schimbați fața
-excerpt: "" 
+excerpt: "Trebuie să o spunem pe cea dreaptă, marele perdant al acestor alegeri este USR Plus. După o guvernare anterioară marca PSD,
+ cu oamenii și metodele cunoscute și după un an în care PNL și președintele lui, mai puțin al românilor,
+  încearcă să ne convingă că se ghidează după același manual, să nu reușești să mobilizezi oamenii la vot este un mare eșec." 
 permalink: /blog/ro/politics/usrplus-schimbati-fata
 published: true
 categories:
