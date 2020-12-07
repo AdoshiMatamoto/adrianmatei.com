@@ -35,4 +35,4 @@ Mulți o să zică că poporul e de vină, că nu s-a prezentat la vot. Eu zic c
 că băieți mai lucrați la ofertă.
 
 P.S. Un lucru îmbucurător mai este ca poate o să scăpăm definitiv și de alte fețe eterne, Pro România și PMP la voi mă refer.
- Pe de altăparte, cine este AUR?
+ Pe de altă parte, cine este AUR?
