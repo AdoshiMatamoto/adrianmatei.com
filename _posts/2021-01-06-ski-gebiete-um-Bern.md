@@ -17,8 +17,7 @@ tags:
 
 The car travel time listed beside the destinations, is actually from [Schliern Köniz](https://goo.gl/maps/N3tF77yWCCSwj78r6), close to Bern,
 where I currently live. The parking link is the destination pin point, so you can easily calculate the duration from your own location. 
-
-<p>Shared with <i class="fa fa-heart"></i> love <i class="fas fa-parking"></i> </p> 
+ 
 * TOC
 {:toc} 
 
