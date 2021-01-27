@@ -12,6 +12,6 @@ tags:
   - meme
 ---
 
-Bernie Sanders was trying to prove a point - **"A scientist always wears gloves and a mask"**.
+Bernie Sanders was trying to prove a point - **"A scientist always wears gloves, and a mask"**.
 
 {% include image.html url="/assets/images/posts/2021-01-27-the-real-solvay-conference-pic/solvey-conference-colorized-bernie-1600x806.jpg" description="The real Solvay Conference pic" %}
