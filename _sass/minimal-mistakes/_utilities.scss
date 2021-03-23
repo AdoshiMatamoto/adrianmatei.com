@@ -8,7 +8,8 @@
 
 /* http://www.456bereastreet.com/archive/200711/screen_readers_sometimes_ignore_displaynone/ */
 
-.hidden {
+.hidden,
+.is--hidden {
   display: none;
   visibility: hidden;
 }
@@ -46,7 +47,7 @@ body:hover .visually-hidden button {
 /* screen readers */
 
 .screen-reader-text:focus,
-.screen-reader-shortcut:focus  {
+.screen-reader-shortcut:focus {
   clip: auto !important;
   height: auto !important;
   width: auto !important;
@@ -57,9 +58,8 @@ body:hover .visually-hidden button {
   background: #fff;
   z-index: 100000;
   text-decoration: none;
-  box-shadow: 0 0 2px 2px rgba(0,0,0,.6);
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
 }
-
 
 /*
    Skip links
@@ -78,7 +78,6 @@ body:hover .visually-hidden button {
   width: 0;
   list-style: none;
 }
-
 
 /*
    Type
@@ -104,6 +103,26 @@ body:hover .visually-hidden button {
   white-space: nowrap;
 }
 
+/*
+   Task lists
+   ========================================================================== */
+
+.task-list {
+  padding: 0;
+
+  li {
+    list-style-type: none;
+  }
+
+  .task-list-item-checkbox {
+    margin-right: 0.5em;
+    opacity: 1;
+  }
+}
+
+.task-list .task-list {
+  margin-left: 1em;
+}
 
 /*
    Alignment
@@ -111,12 +130,15 @@ body:hover .visually-hidden button {
 
 /* clearfix */
 
-.cf { clear: both; }
-
-.wrapper {
-  @include container();
+.cf {
+  clear: both;
 }
 
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
 
 /*
    Images
@@ -159,7 +181,7 @@ body:hover .visually-hidden button {
 /* file page content container */
 
 .full {
-  @include breakpoint($large){
+  @include breakpoint($large) {
     margin-right: -1 * span(2.5 of 12) !important;
   }
 }
@@ -182,8 +204,11 @@ body:hover .visually-hidden button {
 /* social icons*/
 
 .social-icons {
-  .fa {
-    color: #000;
+  .fas,
+  .fab,
+  .far,
+  .fal {
+    color: $text-color;
   }
 
   .fa-behance,
@@ -191,331 +216,385 @@ body:hover .visually-hidden button {
     color: $behance-color;
   }
 
-  .fa-bitbucket,
-  .fa-bitbucket-square {
+< < < < < < < HEAD:docs /_sass/ minimal-mistakes / _utilities . scss . fa-bitbucket,
+. fa-bitbucket-square {
+  color: $bitbucket-color;
+}
+
+  .fa-dribbble {
+  == == == = . fa-bitbucket {
     color: $bitbucket-color;
   }
 
-  .fa-dribbble {
-    color: $dribbble-color;
+    .fa-dribbble,
+    .fa-dribble-square {
+    > > > > > > > upstream / master:_sass /minimal-mistakes/ _utilities . scss color:$dribbble-color;
+    }
+
+    .fa-facebook,
+    .fa-facebook-square,
+    .fa-facebook-f {
+      color: $facebook-color;
+    }
+
+    .fa-flickr {
+      color: $flickr-color;
+    }
+
+    .fa-foursquare {
+      color: $foursquare-color;
+    }
+
+    .fa-github,
+    .fa-github-alt,
+    .fa-github-square {
+      color: $github-color;
+    }
+
+    .fa-gitlab {
+      color: $gitlab-color;
+    }
+
+    .fa-instagram {
+      color: $instagram-color;
+    }
+
+    .fa-keybase {
+      color: $keybase-color;
+    }
+
+    .fa-lastfm,
+    .fa-lastfm-square {
+      color: $lastfm-color;
+    }
+
+    .fa-linkedin,
+    .fa-linkedin-in {
+      color: $linkedin-color;
+    }
+
+    .fa-mastodon,
+    .fa-mastodon-square {
+      color: $mastodon-color;
+    }
+
+    .fa-pinterest,
+    .fa-pinterest-p,
+    .fa-pinterest-square {
+      color: $pinterest-color;
+    }
+
+    .fa-reddit {
+      color: $reddit-color;
+    }
+
+    .fa-rss,
+    .fa-rss-square {
+      color: $rss-color;
+    }
+
+    .fa-soundcloud {
+      color: $soundcloud-color;
+    }
+
+    .fa-stack-exchange,
+    .fa-stack-overflow {
+      color: $stackoverflow-color;
+    }
+
+    .fa-tumblr,
+    .fa-tumblr-square {
+      color: $tumblr-color;
+    }
+
+    .fa-twitter,
+    .fa-twitter-square {
+      color: $twitter-color;
+    }
+
+    .fa-vimeo,
+    .fa-vimeo-square,
+    .fa-vimeo-v {
+      color: $vimeo-color;
+    }
+
+    .fa-vine {
+      color: $vine-color;
+    }
+
+    .fa-youtube {
+      color: $youtube-color;
+    }
+
+    .fa-xing,
+    .fa-xing-square {
+      color: $xing-color;
+    }
   }
 
-  .fa-facebook,
-  .fa-facebook-square {
-    color: $facebook-color;
-  }
+  /*
+     Navicons
+     ========================================================================== */
 
-  .fa-flickr {
-    color: $flickr-color;
-  }
-
-  .fa-foursquare {
-    color: $foursquare-color;
-  }
-
-  .fa-github,
-  .fa-github-alt,
-  .fa-github-square {
-    color: $github-color;
-  }
-
-  .fa-google-plus,
-  .fa-google-plus-square {
-    color: $google-plus-color;
-  }
-
-  .fa-instagram {
-    color: $instagram-color;
-  }
-
-  .fa-lastfm,
-  .fa-lastfm-square {
-    color: $lastfm-color;
-  }
-
-  .fa-linkedin,
-  .fa-linkedin-square {
-    color: $linkedin-color;
-  }
-
-  .fa-pinterest,
-  .fa-pinterest-p,
-  .fa-pinterest-square {
-    color: $pinterest-color;
-  }
-
-  .fa-rss,
-  .fa-rss-square {
-    color: $rss-color;
-  }
-
-  .fa-soundcloud {
-    color: $soundcloud-color;
-  }
-
-  .fa-stack-exchange,
-  .fa-stack-overflow {
-    color: $stackoverflow-color;
-  }
-
-  .fa-tumblr,
-  .fa-tumblr-square {
-    color: $tumblr-color;
-  }
-
-  .fa-twitter,
-  .fa-twitter-square {
-    color: $twitter-color;
-  }
-
-  .fa-vimeo,
-  .fa-vimeo-square {
-    color: $vimeo-color;
-  }
-
-  .fa-vine {
-    color: $vine-color;
-  }
-
-  .fa-youtube,
-  .fa-youtube-square,
-  .fa-youtube-play {
-    color: $youtube-color;
-  }
-
-  .fa-xing,
-  .fa-xing-square {
-    color: $xing-color;
-  }
-}
-
-
-/*
-   Navicons
-   ========================================================================== */
-
-.navicon {
-  position: relative;
-  width: $navicon-width;
-  height: $navicon-height;
-  background: #fff;
-  margin: auto;
-  -webkit-transition: 0.3s;
-  transition: 0.3s;
-
-  &:before,
-  &:after {
-    content: "";
-    position: absolute;
-    left: 0;
+  .navicon {
+    position: relative;
     width: $navicon-width;
     height: $navicon-height;
-    background: #fff;
+    background: $primary-color;
+    margin: auto;
     -webkit-transition: 0.3s;
     transition: 0.3s;
+
+    &:before,
+    &:after {
+      content: "";
+      position: absolute;
+      left: 0;
+      width: $navicon-width;
+      height: $navicon-height;
+      background: $primary-color;
+      -webkit-transition: 0.3s;
+      transition: 0.3s;
+    }
+
+    &:before {
+      top: (-2 * $navicon-height);
+    }
+
+    &:after {
+      bottom: (-2 * $navicon-height);
+    }
   }
 
-  &:before {
-    top: (-2 * $navicon-height);
+  .close .navicon {
+    /* hide the middle line*/
+    background: transparent;
+
+    /* overlay the lines by setting both their top values to 0*/
+    &:before,
+    &:after {
+      -webkit-transform-origin: 50% 50%;
+      -ms-transform-origin: 50% 50%;
+      transform-origin: 50% 50%;
+      top: 0;
+      width: $navicon-width;
+    }
+
+    /* rotate the lines to form the x shape*/
+    &:before {
+      -webkit-transform: rotate3d(0, 0, 1, 45deg);
+      transform: rotate3d(0, 0, 1, 45deg);
+    }
+
+    &:after {
+      -webkit-transform: rotate3d(0, 0, 1, -45deg);
+      transform: rotate3d(0, 0, 1, -45deg);
+    }
   }
 
-  &:after {
-    bottom: (-2 * $navicon-height);
+  .greedy-nav__toggle {
+    &:before {
+      @supports (pointer-events: none) {
+        content: '';
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        background-color: $background-color;
+        -webkit-transition: $global-transition;
+        transition: $global-transition;
+        pointer-events: none;
+      }
+    }
+
+    &.close {
+      &:before {
+        opacity: 0.9;
+        -webkit-transition: $global-transition;
+        transition: $global-transition;
+        pointer-events: auto;
+      }
+    }
   }
-}
 
-.close .navicon {
-  /* hide the middle line*/
-  background: transparent;
+  .greedy-nav__toggle:hover {
+    .navicon,
+    .navicon:before,
+    .navicon:after {
+      background: mix(#000, $primary-color, 25%);
+    }
 
-  /* overlay the lines by setting both their top values to 0*/
-  &:before, &:after{
-    -webkit-transform-origin: 50% 50%;
-        -ms-transform-origin: 50% 50%;
-            transform-origin: 50% 50%;
-    top: 0;
-    width: $navicon-width;
+    &.close {
+      .navicon {
+        background: transparent;
+      }
+    }
   }
 
-  /* rotate the lines to form the x shape*/
-  &:before{
-    -webkit-transform: rotate3d(0,0,1,45deg);
-            transform: rotate3d(0,0,1,45deg);
+  /*
+     Sticky, fixed to top content
+     ========================================================================== */
+
+  .sticky {
+    @include breakpoint($large) {
+      @include clearfix();
+      position: -webkit-sticky;
+      position: sticky;
+      top: 2em;
+
+      > * {
+        display: block;
+      }
+    }
   }
-  &:after{
-    -webkit-transform: rotate3d(0,0,1,-45deg);
-            transform: rotate3d(0,0,1,-45deg);
+
+  /*
+     Wells
+     ========================================================================== */
+
+  .well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    border-radius: $border-radius;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
   }
-}
 
+  /*
+     Modals
+     ========================================================================== */
 
-/*
-   Sticky, fixed to top content
-   ========================================================================== */
+  .show-modal {
+    overflow: hidden;
+    position: relative;
 
-.sticky {
-  @include breakpoint($large) {
-    @include clearfix();
-    position: -webkit-sticky;
-    position: sticky;
-    top: 2em;
+    &:before {
+      position: absolute;
+      content: "";
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 999;
+      background-color: rgba(255, 255, 255, 0.85);
+    }
 
-    > * {
+    .modal {
       display: block;
     }
   }
-}
-
-
-/*
-   Wells
-   ========================================================================== */
-
-.well {
-  min-height: 20px;
-  padding: 19px;
-  margin-bottom: 20px;
-  background-color: #f5f5f5;
-  border: 1px solid #e3e3e3;
-  border-radius: $border-radius;
-  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
-}
-
-
-/*
-   Modals
-   ========================================================================== */
-
-.show-modal {
-  overflow: hidden;
-  position: relative;
-
-  &:before {
-    position: absolute;
-    content: "";
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 999;
-    background-color: rgba(255, 255, 255, 0.85);
-  }
 
   .modal {
-    display: block;
+    display: none;
+    position: fixed;
+    width: 300px;
+    top: 50%;
+    left: 50%;
+    margin-left: -150px;
+    margin-top: -150px;
+    min-height: 0;
+    z-index: 9999;
+    background: #fff;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    box-shadow: $box-shadow;
+
+    &__title {
+      margin: 0;
+      padding: 0.5em 1em;
+    }
+
+    &__supporting-text {
+      padding: 0 1em 0.5em 1em;
+    }
+
+    &__actions {
+      padding: 0.5em 1em;
+      border-top: 1px solid $border-color;
+    }
   }
-}
 
-.modal {
-  display: none;
-  position: fixed;
-  width: 300px;
-  top: 50%;
-  left: 50%;
-  margin-left: -150px;
-  margin-top: -150px;
-  min-height: 0;
-  z-index: 9999;
-  background: #fff;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
-  box-shadow: $box-shadow;
+  /*
+     Footnotes
+     ========================================================================== */
 
-  &__title {
-    margin: 0;
-    padding: 0.5em 1em;
+  .footnote {
+    color: mix(#fff, $gray, 25%);
+    text-decoration: none;
   }
 
-  &__supporting-text {
-    padding: 0 1em 0.5em 1em;
+  .footnotes {
+    color: mix(#fff, $gray, 25%);
+
+    ol,
+    li,
+    p {
+      margin-bottom: 0;
+      font-size: $type-size-6;
+    }
   }
 
-  &__actions {
-    padding: 0.5em 1em;
-    border-top: 1px solid $border-color;
+  a.reversefootnote {
+    color: $gray;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
-}
 
+  /*
+     Required
+     ========================================================================== */
 
-/*
-   Footnotes
-   ========================================================================== */
-
-.footnote {
-  color: mix(#fff, $gray, 25%);
-  text-decoration: none;
-}
-
-.footnotes {
-  color: mix(#fff, $gray, 25%);
-
-  ol, li, p {
-    margin-bottom: 0;
-    font-size: $type-size-6;
+  .required {
+    color: $danger-color;
+    font-weight: bold;
   }
-}
 
-a.reversefootnote {
-  color: $gray;
-  text-decoration: none;
-
-  &:hover {
-    text-decoration: underline;
-  }
-}
-
-
-/*
-   Required
-   ========================================================================== */
-
-.required {
-  color: $danger-color;
-  font-weight: bold;
-}
-
-
-/*
+< < < < < < < HEAD:docs /_sass/ minimal-mistakes / _utilities . scss == == == = > > > > > > > upstream / master:_sass /minimal-mistakes/ _utilities . scss /*
    Google Custom Search Engine
    ========================================================================== */
 
-.gsc-control-cse {
-
-  table, tr, td {
-    border: 0; /* remove table borders widget */
-  }
+. gsc-control-cse {
+< < < < < < < HEAD:docs /_sass/ minimal-mistakes / _utilities . scss table, tr, td {
+== == == = table,
+tr,
+td {
+> > > > > > > upstream / master:_sass /minimal-mistakes/ _utilities . scss border:0; /* remove table borders widget */
 }
-
-/*
+} /*
    Responsive Video Embed
    ========================================================================== */
 
-.responsive-video-container {
-  position: relative;
-  margin-bottom: 1em;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
+  .responsive-video-container {
+    position: relative;
+    margin-bottom: 1em;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
 
-  iframe,
-  object,
-  embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+    iframe,
+    object,
+    embed {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
   }
-}
 
 // full screen video fixes
 :-webkit-full-screen-ancestor {
-   .masthead,
-   .page__footer {
+  .masthead,
+  .page__footer {
     position: static;
   }
 }
 
-//clear
-.clear {clear:both;margin:0;padding:0;}
