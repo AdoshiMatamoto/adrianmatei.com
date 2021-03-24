@@ -1,12 +1,12 @@
 ---
-title: My Favorite Ted Talks
+title: My favorit stoic quotes
 excerpt: "List of my favorite TED talks, to easily come back to, whenever I need to reinvigorate my inspiration" 
 header:
   overlay_image: /assets/images/posts/ted-favorite-talks/ted-favorite-talks-header.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 thumbnail: /assets/images/posts/ted-favorite-talks/ted-favorite-talks-thumbnail.png
 permalink: /blog/inspiration/favorite-ted-talks
-published: true
+published: false
 categories:
   - inspiration
 tags:

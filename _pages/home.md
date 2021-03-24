@@ -7,8 +7,8 @@ header:
   cta_label: "<i class='fa fa-download'></i> Install Now"
   cta_url: "https://github.com/BookmarksDev/bookmarks.dev/"
   caption:
-excerpt: 'Software engineer hooked on coding, spending time outdoors and playing all sorts of sports (preferably with a ball).
- <br><br>Currently, helping Developers & Co manage their bookmarks and code snippets with <a href="https://www.bookmarks.dev">Bookmarks.dev</a><br /><br /> 
+excerpt: 'Software engineer hooked on coding, spending time outdoors and playing all sorts of sports (most likely with a ball).
+ <br><br>Currently, working on <a href="https://www.bookmarks.dev">Bookmarks.dev</a> to help Developers & Co manage their bookmarks and code snippets <br /><br /> 
  {::nomarkdown}
  <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=BookmarksDev&repo=bookmarks.dev&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> 
  <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=BookmarksDev&repo=bookmarks&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> 
@@ -39,7 +39,7 @@ github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=CodepediaOrg&repo=bookmarks&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
    <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=CodepediaOrg&repo=bookmarks&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Get connected [<i class="fa fa-github"></i>](http://github.com/adrianmatei-me) [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/adrianmatei-me) [<i class="fa fa-twitter"></i>](http://github.com/adrianmatei-me) [<i class="fa fa-instagram"></i>](https://www.instagram.com/adrianmatei.me) [<i class="fa fa-facebook"></i>](https://www.facebook.com/adrianmatei.me)'
+  - excerpt: 'Get connected [<i class="fab fa-fw fa-github"></i>](http://github.com/adrianmatei-me) [<i class="fab fa-fw fa-linkedin"></i>](https://www.linkedin.com/in/adrianmatei-me) [<i class="fab fa-fw fa-twitter-square"></i>](http://github.com/adrianmatei-me) [<i class="fab fa-fw fa-instagram"></i>](https://www.instagram.com/adrianmatei.me) [<i class="fab fa-fw fa-facebook-square"></i>](https://www.facebook.com/adrianmatei.me)'
 ---
 
 <div id="home-social-connect" style="font-size:2em">

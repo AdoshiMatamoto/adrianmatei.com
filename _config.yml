@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Adrian Matei Personal Website"
+title                    : "Adrian Matei"
 title_separator          : "-"
 name                     : "Adrian Matei"
 description              : "Personal site of Adrian Matei. Here you can find my resume, my projects and other non-work related material, like travel, cooking"
@@ -104,9 +104,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ama@codepedia.org"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.adrianmatei.me"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/adrianmatei-me"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/adrianmatei_me"

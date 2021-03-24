@@ -11,11 +11,6 @@ tags:
 This is a great book written by Tim Feriss, best known for his book <a target="_blank" href="https://www.amazon.com/gp/product/B006X0M2TS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006X0M2TS&linkCode=as2&tag=adrianmatei.me-20&linkId=8303b223edefd3a67ac933113aff4af6">The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=adrianmatei.me-20&l=am2&o=1&a=B006X0M2TS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
  In this book he questions successful people about their tactics, routines and habits. Most of them are really happy to share
  how they came to be. Throughout the book the author and his interviewees recommend tons of other good books. Some of them are list at the end of this post.
- 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=adrianmatei.me-20&marketplace=amazon&region=US&placement=B01HSMRWNU&asins=B01HSMRWNU&linkId=b0e1db93755725a19ff449189e226e66&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe> 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=tf_til&ad_type=product_link&tracking_id=adrianmatei.me-21&marketplace=amazon&region=DE&placement=B01LF32ZNU&asins=B01LF32ZNU&linkId=47b1eda14682590353056f3f361c6a9f&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
     
 ## Book highlights and notes
 

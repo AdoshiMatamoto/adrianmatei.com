@@ -9,8 +9,6 @@ tags:
 Useful book with solid advices for everyone from the creator of [Dilbert](http://dilbert.com/), Scott Adams. Main take-away
 from the book - use systems instead of goals...
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=adrianmatei.me-20&marketplace=amazon&region=US&placement=B00FHI0XK2&asins=B00FHI0XK2&linkId=0e247b30ca9acdcd51d73c762b060c73&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
     
 ## Book highlights and notes
 

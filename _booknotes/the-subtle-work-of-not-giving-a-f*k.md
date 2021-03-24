@@ -10,11 +10,6 @@ tags:
 Easy to read, fun and well-written book, where actually lots of SERIOUS life lessons are addressed - giving f*cks 
 about the important things in life and not giving a f*ck for everything else.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=adrianmatei.me-20&marketplace=amazon&region=US&placement=B019MMUA8S&asins=B019MMUA8S&linkId=9d59b4af671349eaec1474441d3005cf&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-     </iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=adrianmatei.me-21&marketplace=amazon&region=DE&placement=B019MMUA8S&asins=B019MMUA8S&linkId=1ddb6bfaab0e1b2f2f47ce3812b45309&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>     
- 
 ## Book highlights and notes
 
 The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience.

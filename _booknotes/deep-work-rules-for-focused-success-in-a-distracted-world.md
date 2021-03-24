@@ -22,9 +22,7 @@ Through revealing portraits of both historical and modern-day thinkers, academic
  science and culture, and their deep work habits, Newport shares an inspiring collection of tools to wring every last drop of value out of your intellectual capacity.
   He explains why mastering this shift in work practices is crucial for anyone who intends to stay ahead in a complex information economy
   , and how to systematically train the mind to focus. Put simply: developing and cultivating a deep work practice is one of the best decisions we can make in an increasingly distracted world.
- 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=adrianmatei.me-21&marketplace=amazon&region=DE&placement=B013UWFM52&asins=B013UWFM52&linkId=0a3c5518d58936ad3c68900f22e76137&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
+
     
 ## Book highlights and notes
 
