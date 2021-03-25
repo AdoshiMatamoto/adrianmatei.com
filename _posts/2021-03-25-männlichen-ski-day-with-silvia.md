@@ -95,7 +95,7 @@ Actually, the new Terminal was the end station for me today
     <a href="https://i.ibb.co/rwg288G/9-1500x1125-actual-end-the-terminal.jpg">
         <img src="https://i.ibb.co/fG7pG44/9-800x600-actual-end-the-terminal.jpg" alt="test alt">
     </a>
-    <figcaption>Old roads through vineyards</figcaption>
+    <figcaption>The new Grindelwald terminal</figcaption>
 </figure>
 
  
