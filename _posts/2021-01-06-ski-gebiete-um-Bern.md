@@ -23,7 +23,7 @@ where I currently live. The parking link is the destination pin point, so you ca
 
 ## Under 1 hour
 
-### <i class="fa fa-snowflake-o"></i> Gantrisch Gurnigel - 40min, 1340-1670m
+### <i class="fa fa-snowflake-o"></i> Gantrisch Gurnigel - 40min, 1340-1670m :white_check_mark:
 * [Website](https://www.skiliftegantrischgurnigel.ch/) 
 * [Bergfex](https://www.bergfex.com/gantrisch-gurnigel/) 
 * [Webcam](https://www.bergfex.com/gantrisch-gurnigel/webcams/) <i class="fa fa-video-camera"></i>
@@ -35,14 +35,14 @@ where I currently live. The parking link is the destination pin point, so you ca
 * [Webcam](https://www.bergfex.com/schwarzsee/webcams/) <i class="fa fa-video-camera"></i>
 * :parking: [Parking](https://goo.gl/maps/XxnuoDxLe1g5vnnb8)
 
-### <i class="fa fa-snowflake-o"></i> Aeschi bei Spiez - 50min, 860-1400m
+### <i class="fa fa-snowflake-o"></i> Aeschi bei Spiez - 50min, 860-1400m :white_check_mark:
 * [Website](https://www.aeschi-tourismus.ch/aktivitaeten/wintersport/skifahren.html) 
 * [Bergfex](https://www.bergfex.ch/aeschi/) 
 * :parking: [Parking](https://goo.gl/maps/bfeBrbzQmJngCmRr6)
 * [Restaurant Panorama](https://www.restaurantpanorama.ch/)
   * :parking: [Parking Restaurant Panorama](https://goo.gl/maps/8m4UFTmKRTue2iVw9)
   
-### <i class="fa fa-snowflake-o"></i> Wierehorn Diemtigtal - 51min, 984-1868m
+### <i class="fa fa-snowflake-o"></i> Wierehorn Diemtigtal - 51min, 984-1868m :white_check_mark:
 * [Website](https://www.wiriehorn.ch/winter) 
 * [Bergfex](https://www.bergfex.com/wiriehorn/) 
 * [Webcam](https://www.bergfex.com/wiriehorn/webcams/) <i class="fa fa-video-camera"></i>
@@ -51,7 +51,7 @@ where I currently live. The parking link is the destination pin point, so you ca
   * :parking: [Parking restaurant Wirieblieck](https://goo.gl/maps/7Hbnjeq6myCZqE2s7)
 
 
-### <i class="fa fa-snowflake-o"></i> Les Prés-d'Orvin - 53min, 1000-1300m - [bergfex](https://www.bergfex.com/les-pres-d-orvin/)
+### <i class="fa fa-snowflake-o"></i> Les Prés-d'Orvin - 53min, 1000-1300m
 * [Website](https://presdorvin-ski.ch/willkommen/)
 * [Bergfex](https://www.bergfex.com/les-pres-d-orvin/)
 * [Webcams](https://www.bergfex.com/les-pres-d-orvin/webcams) <i class="fa fa-video-camera"></i>
@@ -59,25 +59,31 @@ where I currently live. The parking link is the destination pin point, so you ca
 
 ## Over 1 hour
 
-### <i class="fa fa-snowflake-o"></i> Elsigen-Metsch - 1h3min, 1000-1300m - [bergfex](https://www.bergfex.com/les-pres-d-orvin/)
+### <i class="fa fa-snowflake-o"></i> Elsigen-Metsch - 1h3min, 1000-1300m :white_check_mark:
 * [Website](https://elsigen-metsch.ch/)
 * [Bergfex](https://www.bergfex.com/elsigen-metsch-frutigen/)
 * [Webcams](https://elsigen-metsch.ch/elsigenmetschwi/) <i class="fa fa-video-camera"></i>
 * :parking: [Parking](https://goo.gl/maps/tU6V13zhoomvdw63A)
 
-### <i class="fa fa-snowflake-o"></i> Adelboden (Lenk) - 1h8min (+20min Gondel to Sillerenbühl), 1068-2362m
+### <i class="fa fa-snowflake-o"></i> Adelboden (Lenk) - 1h8min (+20min Gondel to Sillerenbühl), 1068-2362m :white_check_mark:
 * [Website](https://www.adelboden-lenk.ch/)
 * [Bergfex](https://www.bergfex.com/adelboden/)
 * [Webcams](https://www.bergfex.com/adelboden//webcams/) <i class="fa fa-video-camera"></i>
 * :parking: [Parking](https://goo.gl/maps/wncYTCKF7qhBxoAd8)
 
-### <i class="fa fa-snowflake-o"></i> Grindelwald Männlichen/Wengen - 1h14min (+15min Gondel), 1068-2500m
+### <i class="fa fa-snowflake-o"></i> Grindelwald Männlichen/Wengen - 1h14min (+15min Gondel), 1068-2500m :white_check_mark:
 * [Website](https://www.jungfrau.ch/de-ch/jungfrau-ski-region/grindelwald-wengen/)
 * [Bergfex](https://www.bergfex.com/jungfrau-grindelwald-wengen/)
 * [Webcams](https://www.jungfrau.ch/de-ch/live/webcams/#webcam-maennlichen) <i class="fa fa-video-camera"></i>
 * :parking: [Parking](https://goo.gl/maps/WUE69d8R6XoFAw4h9)
 
-### <i class="fa fa-snowflake-o"></i> Jaunpass - 1h15min, 1500-1700m
+### <i class="fa fa-snowflake-o"></i> Zweisimmen, Rinderberg - 1h15min, 1000-2200m :white_check_mark:
+* [Website](https://www.gstaad.ch/bergbahnen/unsere-berge/rinderberg-saanerslochgrat-horneggli.html)
+* [Bergfex](https://www.bergfex.com/gstaad/)
+* [Webcams](https://www.gstaad.ch/aktuell/livecams.html) <i class="fa fa-video-camera"></i>
+* :parking: [Parking](https://goo.gl/maps/2i9khDpUBXJkHgdn6)
+
+### <i class="fa fa-snowflake-o"></i> Jaunpass - 1h15min, 1500-1700m :white_check_mark:
 * [Website](https://www.sportbahnen-jaunpass.ch/)
 * [Bergfex](https://www.bergfex.ch/jaunpass/)
 * [Webcams](https://www.bergfex.ch/jaunpass/webcams/) <i class="fa fa-video-camera"></i>
@@ -89,14 +95,14 @@ where I currently live. The parking link is the destination pin point, so you ca
 * [Webcams](https://www.meiringen-hasliberg.ch/en/Info/Livecam) <i class="fa fa-video-camera"></i>
 * :parking: [Parking](https://goo.gl/maps/vv6TB6fA5e1yevLV8)
 
-### <i class="fa fa-snowflake-o"></i> Grindelwald First - 1h17min (+20min Gondel), 1068-2500m
+### <i class="fa fa-snowflake-o"></i> Grindelwald First - 1h17min (+20min Gondel), 1068-2500m :white_check_mark:
 * [Website](https://www.jungfrau.ch/en-gb/jungfrau-ski-region/grindelwald-first-ski-area/)
 * [Bergfex](https://www.bergfex.com/jungfrau-grindelwald-wengen/)
 * [Webcams](https://www.jungfrau.ch/en-gb/live/webcams/#webcam-grindelwald-first) <i class="fa fa-video-camera"></i>
 * :parking: [Parking](https://goo.gl/maps/1ECnWxZ5uj8fHNtF7)
   * :parking: [Alternative Parking + 10min walk](https://goo.gl/maps/9crmYF9tQc5V73sEA)
 
-### <i class="fa fa-snowflake-o"></i> (Adelboden) Lenk - 1h32min (+10min Gondel), 1068-2362m
+### <i class="fa fa-snowflake-o"></i> (Adelboden) Lenk - 1h32min (+10min Gondel), 1068-2362m :white_check_mark:
 * [Website](https://www.adelboden-lenk.ch/)
 * [Bergfex](https://www.bergfex.com/lenk/)
 * [Webcams](https://www.bergfex.com/lenk/webcams/) <i class="fa fa-video-camera"></i>
