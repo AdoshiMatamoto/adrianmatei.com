@@ -33,7 +33,7 @@ Slope number 3 takes you from Männlichen, all the way down to Grindewald
  
  Ladies first. In front you can see the "world-renowned" Eiger North face, as they let you know in the gondola 
   <figure class="image">
-    <a href="https://i.ibb.co/7pmw4tv/2-1500x1125-vieux-village-old-villa.jpg">
+    <a href="https://i.ibb.co/F4qmN6w/2-1500x1125-on-the-right-eiger-world-renowned.jpg">
      <img src="https://i.ibb.co/p1DLm7Q/2-800x600-on-the-right-eiger-world-renowned.jpg" alt="Old villa on the old village stret">
     </a>
     <figcaption>Old friends: Silvia, Eiger, Monch and Jungfrau</figcaption>
