@@ -19,7 +19,7 @@ tags:
   - snowboarding                                                                                 
 ---
  
-Hoping to find a place not so crowded in the weekend, like [Männlichen]({% post_url 2021-03-25-maennlichen-ski-day-with-silvia %}),
+Hoping to find a place less crowded in the weekend, unlike probably [Männlichen]({% post_url 2021-03-25-maennlichen-ski-day-with-silvia %}),
  we took a change with Zweisimmen, Rinderberg. It turned out to be a perfect decision - no traffic jams, no queues on the gondola lift,
   lots os snow on the well-prepared ski pistes. Now it is definitely a new entry now in [my list of ski areas around Bern :ski:]({% post_url 2021-01-06-ski-gebiete-um-Bern %}).  
 
