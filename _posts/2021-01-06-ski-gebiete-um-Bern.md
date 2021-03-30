@@ -2,6 +2,8 @@
 title: Favorite ski areas around Bern sorted by car travel time
 excerpt: "List with my favorite ski areas around Bern, sorted by car travel time. As metadata, there are links
 to official websites, Bergfex entries, webcams and pin points for parking."
+header:
+  image: https://i.ibb.co/G7612fp/7-1500x1125-I-was-too-fast-pause-to-mighty-eiger.jpg
 thumbnail: /assets/images/posts/2021-01-06-favorite-ski-areas-around-bern/favorite-ski-areas-around-bern-thumbnail.png  
 permalink: /blog/leisure/favorite-ski-areas-around-bern-sorted-by-car-travel-time
 published: true
@@ -13,6 +15,7 @@ tags:
   - bern
   - hiking
   - sledge
+  - outdoors
 ---
 
 The car travel time listed beside the destinations, is actually from [Schliern Köniz](https://goo.gl/maps/N3tF77yWCCSwj78r6), close to Bern,
