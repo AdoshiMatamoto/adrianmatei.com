@@ -1,7 +1,7 @@
 ---
 title: "Zweisimmen, Rinderberg - new entry on my ski areas around Bern list"
 date: 2021-03-28
-permalink: "/blog/swiss-outdoors/zweisimmen-rinderberg-entry-on-ski-areas-around-bern/"
+permalink: "/blog/swiss-outdoors/zweisimmen-rinderberg-entry-ski-areas-around-bern/"
 published: true
 excerpt: "Surprisingly new entry on my ski areas around Bern list."
 thumbnail: 
