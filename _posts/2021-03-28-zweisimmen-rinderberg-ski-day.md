@@ -133,9 +133,9 @@ Some picture
 Almost there in Zweisimmen
 <figure class="image">
     <a href="https://i.ibb.co/ZVs1WBv/12-1500x1125-allmost-there-zweisimmen-sebi-on-skis.jpg">
-        <img src="https://i.ibb.co/17JYcdS/12-800x600-allmost-there-zweisimmen-sebi-on-skis.jpg" alt="test alt">
+        <img src="https://i.ibb.co/17JYcdS/12-800x600-allmost-there-zweisimmen-sebi-on-skis.jpg" alt="Close to Zweisimmen">
     </a>
-    <figcaption>Say something here....</figcaption>
+    <figcaption>Close to Zweisimmen</figcaption>
 </figure> 
 
 There   
