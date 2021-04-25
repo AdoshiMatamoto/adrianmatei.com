@@ -70,7 +70,9 @@ In this highly personal talk from TEDMED, magician and stuntman David Blaine des
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/david_blaine_how_i_held_my_breath_for_17_minutes" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 ## **Personal growth**
+
 ### How to speak so that people want to listen
+
 Have you ever felt like you're talking, but nobody is listening? Here's Julian Treasure to help. In this useful talk,
  the sound expert demonstrates the how-to's of powerful speaking -- from some handy vocal exercises to tips
   on how to speak with empathy. A talk that might help the world sound more beautiful.
@@ -78,6 +80,7 @@ Have you ever felt like you're talking, but nobody is listening? Here's Julian T
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 ### Your body language may shape who you are
+
 Body language affects how others see us, but it may also change how we see ourselves.
 Social psychologist Amy Cuddy argues that "power posing" -- standing in a posture of confidence,
 even when we don't feel confident -- can boost feelings of confidence, and might have an impact on our chances for success.
@@ -85,11 +88,20 @@ even when we don't feel confident -- can boost feelings of confidence, and might
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 ### The happy secret to better work
+
 We believe we should work hard in order to be happy, but could we be thinking about things backwards?
  In this fast-moving and very funny talk, psychologist Shawn Achor argues that, actually, happiness inspires us to be more productive.
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/shawn_achor_the_happy_secret_to_better_work" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
+### A simple way to break a bad habit
+
+Can we break bad habits by being more curious about them? Psychiatrist Judson Brewer studies the relationship between mindfulness and addiction
+ -- from smoking to overeating to all those other things we do even though we know they're bad for us.
+  Learn more about the mechanism of habit development and discover a simple but profound tactic 
+  that might help you beat your next urge to smoke, snack or check a text while driving.
+  
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/judson_brewer_a_simple_way_to_break_a_bad_habit" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 ## **Leadership**
 
