@@ -92,8 +92,21 @@ We believe we should work hard in order to be happy, but could we be thinking ab
 
 
 ## **Leadership**
+
 ### How great leaders inspire action
+
 Simon Sinek has a simple but powerful model for inspirational leadership -- starting with a golden circle and the question:
  "Why?" His examples include Apple, Martin Luther King Jr. and the Wright brothers ...
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/simon_sinek_how_great_leaders_inspire_action" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>  
+
+## **Health**
+
+### How to make stress your friend
+
+Stress. It makes your heart pound, your breathing quicken and your forehead sweat.
+ But while stress has been made into a public health enemy, new research suggests that stress may only be bad for you
+  if you believe that to be the case. Psychologist Kelly McGonigal urges us to see stress as a positive,
+   and introduces us to an unsung mechanism for stress reduction: reaching out to others.
+   
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
