@@ -111,13 +111,44 @@ Mark explains how to read heavy backspin, light backspin and float. He also expl
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LmQNDC-1Ew0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Sidespin
+
+### Sidespin Forehand Topspin | PingSkills - 5min 
+Learn to curve the ball past your opponent with the sidespin forehand topspin.
+ The sidespin not only causes the ball to curve but also makes it very difficult for your opponent to block.
+  It is less reliable than the regular forehand topspin since there is less topspin but it is a fun stroke to play!
+
+- Drop your writst for a hook shot
+- Lift your wrist for a face shot 
+- Drag your opponent out wide
+- Sidespin makes it harder to block
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P38tGd0sFy8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### How to Return SIDE SPIN Serve's | eBaTT - Tutorial #30 - 7min
+
+Tips
+1. Understanding the contact point and aiming to hit the ball where the opponent initially connects with the ball.
+ Once you see where the opposing player has connected with the ball, your aim is to contact the ball in the same zone/area. 
+ This generally will be a position that goes against the spin that's currently on the ball.
+2. Acceleration, it's not enough just going against the spin, you must accelerate just before the point of contact.
+ This gives you control over the oncoming ball and effectively will override the spin currently on the ball.
+  if you do not accelerate, then the spin on the ball will take effect at the point of contact and spin-off your bat in a sideways motion.
+3. You can also use other strokes to return sidespin as you develop and the most effective return would be a flick stroke.
+ but again you will need to pay attention to which sidespin you're receiving. this is in order to direct the ball in the opposite
+  direction of where the spin would like to carry the ball. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fcdCJLGqfPA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
 ## Block
 
 ### Blocking tactics to mess up your opponents | Tom Lodziak - 9min
+
 * Switch Block @ 0:55
 * Fast Block @ 2:43
 * Slow Block @ 4:03
 * Chop Block @ 5:35
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P2dAsl9qojY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
@@ -284,7 +315,7 @@ In the video Craig explains...
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-K1Kuox4NL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Receiving
+## Receiving / return
 
 ### Receiving options - 2min
 
@@ -311,8 +342,25 @@ Of course, it is fine to push or touch short backspin serves, but if you can lea
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KkzfyXgOWUo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### How to return different types of sidespin serve - 12min
+
+In the video I show you how do you deal with these different variations - how to read the spin and which strokes to play. 
+In particular, I explain how to return...
+
+- Short sidespin with backspin
+- Long sidespin with backspin
+- Short sidespin with topspin
+- Long sidespin with topspin
+
+Many players, especially at beginner and intermediate level, find it difficult to return sidespin serves, 
+but if you follow my approach you will find it much easier to return these tricky sidespin serves.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8hyvmBCK-gU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Match
+
 ### 5 Most Effective Strategies To Win At Table Tennis! (Table Tennis Daily)- 11min
+
 In this video we show you 5 effective match winning strategies that will help you improve your game and results.
  We demonstrate and explain how to implement these strategies as well as showing real life match examples of them in action. 
  * Play to elbow
