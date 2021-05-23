@@ -252,11 +252,28 @@ The heavy backspin serve that spins back to the net is one that players often wa
   so is fantastic to learn and understand! We've created this step by step guide so you can master it too! 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8nHUUOXkdxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-### Learning Incredible Hook Serve (Super Topspin) - 15min
+### Hook serve
+
+#### Learning Incredible Hook Serve (Super Topspin) - 15min
+
 * [5:14](https://www.youtube.com/watch?v=Q2AKWA6adGc&t=314s) hook long backspin 
 * [7:14](https://www.youtube.com/watch?v=Q2AKWA6adGc&t=434s) hook topspin serve
 * [11:26](11:26) hook long topspin
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q2AKWA6adGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Return Hook serve extremely easy (Part1) | Tutorial - 5min
+
+Detailed instructions on how to return Hook serve very simple and easy.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3-B3gMZZ108" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Attack your opponent's Hook Service is extremely Easy (Part 2) | Tutorial - 6min
+
+Detailed instructions on how to return Hook serve very simple and easy.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0LXlcqisbg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### How to do top quality BACKHAND serves (with Craig Bryant) - 8min
 In this video, top coach and service expert, Craig Bryant, explains how to do very effective backhand serves.
@@ -338,9 +355,17 @@ Of course, it is fine to push or touch short backspin serves, but if you can lea
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ytqn4FQASNI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### How can I return a short pendulum serve? - 13min
+### Pendulum serve
+
+#### How can I return a short pendulum serve? - 13min
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KkzfyXgOWUo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Read Spin of Forehand Pendulum Serve - 7min
+
+Great tips!!!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R5m6a37aEgk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### How to return different types of sidespin serve - 12min
 
