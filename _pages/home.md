@@ -8,19 +8,19 @@ header:
   cta_url: "https://github.com/BookmarksDev/bookmarks.dev/"
   caption:
 excerpt: 'Software engineer hooked on coding, spending time outdoors and playing all sorts of sports (most likely with a ball).
- <br><br>Currently, working on <a href="https://www.bookmarks.dev">Bookmarks.dev</a> to help Developers & Co manage their bookmarks and code snippets <br /><br /> 
+ <br><br>Currently, working on <a href="https://www.codever.land">Codever</a> to help Developers & Co manage their bookmarks and code snippets <br /><br /> 
  {::nomarkdown}
- <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=BookmarksDev&repo=bookmarks.dev&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> 
- <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=BookmarksDev&repo=bookmarks&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> 
+ <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=codeverland&repo=codever&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> 
+ <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=codeverland&repo=bookmarks&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> 
  
  {:/nomarkdown}'
 
 
 feature_row:
-  - image_path: /assets/images/home/projects-featuring-bookmarks.png
+  - image_path: /assets/images/home/projects-featuring-codever.png
     alt: "Projects"
     title: "Projects"
-    excerpt: "Favorite projects I started. Most of them are open source - [www.codepedia.org](https://www.codepedia.org), [www.bookmarks.dev](https://www.bookmarks.dev)"
+    excerpt: "Favorite projects I started. Most of them are open source - [www.codepedia.org](https://www.codepedia.org), [www.codever.land](https://www.codever.land)"
     url: "/projects/"
     btn_label: "Learn More"
   - image_path: /assets/images/home/photostories.png
