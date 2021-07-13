@@ -10,6 +10,7 @@ categories:
   - memes
 tags:
   - bernie
+  - meme
 ---
 
 Bernie Sanders was trying to prove a point - **"A scientist always wears gloves, and a mask"**.
