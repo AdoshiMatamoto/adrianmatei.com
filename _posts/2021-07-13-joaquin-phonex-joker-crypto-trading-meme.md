@@ -1,6 +1,6 @@
 ---
 title: Crypto trading helped Joaquin Phoenix play Joker
-excerpt: "Crypto daily trading is a tough job, Joaquin Phoenix recognises..."
+excerpt: "Joaquin Phoenix recognises crypto daily trading is a tough job"
 header:
     teaser: /assets/images/memes/joker-joaquin-phoenix-crypto-trading/joker-crypto-trading-meme.jpeg
 thumbnail: /assets/images/memes/joker-joaquin-phoenix-crypto-trading/joker-crypto-trading-meme.jpeg  
@@ -13,7 +13,7 @@ tags:
   - meme
 ---
 
-"Crypto daily trading helped me a lot to get into the Joker character", says Joaquin Phoenix, when asked what helped him
+"Trading crypto daily helped me a lot to get into the Joker character", says Joaquin Phoenix, when asked what helped him
 play Joker so well...
 
 {% include image.html url="/assets/images/memes/joker-joaquin-phoenix-crypto-trading/joker-crypto-trading-meme.jpeg" description="Crypto daily trading is a tough job, Joaquin Phoenix recognises..." %}
