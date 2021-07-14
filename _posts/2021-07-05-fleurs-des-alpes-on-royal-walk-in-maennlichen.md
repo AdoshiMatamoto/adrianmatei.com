@@ -104,5 +104,5 @@ If you love flowers and the Swiss Bernese Alps, you can find both on the "Royal 
 * <i class="fas fa-video"></i> [**Webcam**](https://www.jungfrau.ch/de-ch/live/webcams/#webcam-maennlichen) 
 * <i class="fas fa-utensils"></i> [**Restaurant** - Berghaus Männlichen](https://www.berghaus-maennlichen.ch/en/) 
 * <i class="fas fa-parking"></i> [**Parking** - Grindelwald Terminal](https://goo.gl/maps/KYvJoVB81LUE3Mj7A)
-* [**Further info** - Männlichen Royal Walk](https://www.maennlichen.ch/en/summer/experiences/royal-walk.html) 
+* <i class="fas fa-info-circle"></i> [**Further info** - Männlichen Royal Walk](https://www.maennlichen.ch/en/summer/experiences/royal-walk.html) 
 

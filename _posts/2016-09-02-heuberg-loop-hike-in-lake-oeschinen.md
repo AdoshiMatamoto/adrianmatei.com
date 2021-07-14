@@ -145,6 +145,6 @@ Can't wait to take the family to this hike too... I've heard May it's the best t
 * <i class="fas fa-hiking"></i> **walking distance** - 8.4km
 * <i class="fas fa-mountain"></i> **scenery** - <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
 * <i class="fas fa-heartbeat"></i> **condition** - medium
-* [Website with further details](https://www.oeschinensee.ch/sommer/wandern/heuberg/) 
 * <i class="fas fa-sun"></i> [Meteo](https://www.srf.ch/meteo/wetter/Oeschinensee/46.4976,7.7267) 
 * <i class="fas fa-parking"></i> [Parking at the Gondola station](https://goo.gl/maps/w1QbGLTcN2GhkaoS8) 
+* <i class="fas fa-info-circle"></i> [Website with further details](https://www.oeschinensee.ch/sommer/wandern/heuberg/) 
