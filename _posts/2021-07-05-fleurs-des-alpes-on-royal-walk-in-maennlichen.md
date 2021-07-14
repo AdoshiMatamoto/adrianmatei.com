@@ -100,6 +100,7 @@ If you love flowers and the Swiss Bernese Alps, you can find both on the "Royal 
 * <i class="fas fa-mountain"></i> **scenery** - <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>  
 * <i class="fas fa-heartbeat"></i> **condition** - easy
 * <i class="fas fa-chart-area"></i> **elevation gain/loss** - +140m/-140m
+* <i class="fas fa-sun"></i> [Meteo](https://www.srf.ch/meteo/wetter/M%C3%A4nnlichen/46.6181,7.9381) 
 * <i class="fas fa-video"></i> [**Webcam**](https://www.jungfrau.ch/de-ch/live/webcams/#webcam-maennlichen) 
 * <i class="fas fa-utensils"></i> [**Restaurant** - Berghaus Männlichen](https://www.berghaus-maennlichen.ch/en/) 
 * <i class="fas fa-parking"></i> [**Parking** - Grindelwald Terminal](https://goo.gl/maps/KYvJoVB81LUE3Mj7A)
