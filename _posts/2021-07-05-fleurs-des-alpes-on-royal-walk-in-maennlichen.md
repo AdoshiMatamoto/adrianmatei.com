@@ -1,7 +1,7 @@
 ---
 title: "Fleurs des Alpes on Royal Walk in Männlichen"
 date: 2021-07-05
-permalink: "blog/swiss-outdoors/royal-walk-maennlichen-alpine-flora-and-swiss-bernese-alps"
+permalink: "/blog/swiss-outdoors/royal-walk-maennlichen-alpine-flora-and-swiss-bernese-alps"
 published: true
 excerpt: "Alpine flowers and Swiss Bernese Alps photos"
 thumbnail:
