@@ -206,6 +206,7 @@ we'll definitely try another hike - stay tuned!
 * <i class="fas fa-hiking"></i> **walking distance** - 11km
 * <i class="fas fa-mountain"></i> **scenery** - <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>  
 * <i class="fas fa-heartbeat"></i> **condition** - medium
-* <i class="fas fa-chart-area"></i> **elevation gain/loss** - 800m
+* <i class="fas fa-chart-area"></i> **elevation gain/loss** - +800m/-800m
 * [Website - The Gastlosen Tour in Jaun](https://www.la-gruyere.ch/en/Z12253/the-gastlosen-tour) 
+* <i class="fas fa-utensils"></i> [Restaurant - Chalet du soldat](https://chaletdusoldat.ch/) 
 * <i class="fas fa-parking"></i> [Parking](https://goo.gl/maps/VtioWtjnntW7rdBV7)
