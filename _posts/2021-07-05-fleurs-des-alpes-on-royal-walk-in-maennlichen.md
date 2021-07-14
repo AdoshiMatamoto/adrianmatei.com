@@ -2,7 +2,7 @@
 title: "Fleurs des Alpes on Royal Walk in Männlichen"
 date: 2021-07-05
 permalink: "/blog/swiss-outdoors/royal-walk-maennlichen-alpine-flora-and-swiss-bernese-alps"
-published: false
+published: true
 excerpt: "Alpine flowers and Swiss Bernese Alps photos"
 thumbnail:
   external: https://i.ibb.co/c19S8nW/thumbnail-756x567.jpg
@@ -10,14 +10,17 @@ header:
   image: https://i.ibb.co/0BM0P3c/header-2048x1010.jpg
   teaser: https://i.ibb.co/c19S8nW/thumbnail-756x567.jpg
 categories:
-  - swiss-outdoors
+ - swiss-outdoors
 tags:
+  - switzerland                                                                                            
+  - outdoors    
+  - nature
   - fleurs-des-alpes
   - walk
   - family
 ---
 
-If you love flowers and the Swiss Bernese Alps, you can find both on the "Royal Walk" in Männlichen. Easy, 2km 
+If you love flowers and the Swiss Bernese Alps, you can find both on the "Royal Walk" in Männlichen. It is an easy, 2km 
 "hike" with great scenery and alpine flora:
 
 <figure class="image">
@@ -72,9 +75,8 @@ If you love flowers and the Swiss Bernese Alps, you can find both on the "Royal 
 
 <figure class="image">
   <a href="https://i.ibb.co/wgBVsyj/8-1440x1080-eiger-nordwand-going-down.jpg">
-    <img src="https://i.ibb.co/nR07YJ2/8-800x600-eiger-nordwand-going-down.jpg" alt="TODO-change-me">
+    <img src="https://i.ibb.co/nR07YJ2/8-800x600-eiger-nordwand-going-down.jpg" alt="Eiger Nordwand going down">
   </a>
-  <figcaption>TODO-change-me-optional</figcaption>
 </figure>
 
 
@@ -98,8 +100,8 @@ If you love flowers and the Swiss Bernese Alps, you can find both on the "Royal 
 * <i class="fas fa-mountain"></i> **scenery** - <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>  
 * <i class="fas fa-heartbeat"></i> **condition** - easy
 * <i class="fas fa-chart-area"></i> **elevation gain/loss** - +140m/-140m
-* <i class="fa fa-video-camera"></i> [Webcams](https://www.jungfrau.ch/de-ch/live/webcams/#webcam-maennlichen) 
-* [Website - Männlichen Royal Walk](https://www.maennlichen.ch/en/summer/experiences/royal-walk.html) 
-* <i class="fas fa-utensils"></i> [Restaurant - Berghaus Männlichen](https://www.berghaus-maennlichen.ch/en/) 
-* <i class="fas fa-parking"></i> [Parking - Grindelwald Terminal](https://goo.gl/maps/KYvJoVB81LUE3Mj7A)
+* <i class="fas fa-video"></i> [**Webcam**](https://www.jungfrau.ch/de-ch/live/webcams/#webcam-maennlichen) 
+* <i class="fas fa-utensils"></i> [**Restaurant** - Berghaus Männlichen](https://www.berghaus-maennlichen.ch/en/) 
+* <i class="fas fa-parking"></i> [**Parking** - Grindelwald Terminal](https://goo.gl/maps/KYvJoVB81LUE3Mj7A)
+* [**Further info** - Männlichen Royal Walk](https://www.maennlichen.ch/en/summer/experiences/royal-walk.html) 
 
