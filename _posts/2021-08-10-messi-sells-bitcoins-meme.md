@@ -19,3 +19,7 @@ tags:
 
 > He also mentioned he blames his father for pushing him to do it to spare some "damn taxes". In hindsight, he regrets
 > not having bought more...
+
+After checking his portfolio balance, sees his Ethereum account was also empty, probably his father again:
+
+{% include image.html url="/assets/images/memes/messi-sells-btc/not-eth-too.png" description="Bursts when finds out ETH balance is also empty" %}
