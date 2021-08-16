@@ -1,7 +1,7 @@
 ---
 title: "Family day landscapes at Schynige Platte"
-date:2021-08-16
-permalink: "blog/swiss-outdoors/family-day-landscapes-at-schynige-platte"
+date: 2021-08-16
+permalink: "/blog/swiss-outdoors/family-day-landscapes-at-schynige-platte"
 published: true
 excerpt: "Family day landscapes at Schynige Platte, one of Bernese Oberland most pitoresque places"
 thumbnail:
@@ -12,9 +12,9 @@ header:
 categories:
  - swiss-outdoors
 tags:
- - switzerland
- - hiking
- - family
+  - switzerland
+  - hiking
+  - family
 ---
 
 Family day landscapes at [Schynige Platte](https://www.jungfrau.ch/en-gb/schynige-platte/), one of Bernese Oberland most pitoresque places
@@ -61,9 +61,9 @@ The views from the train start looking better the higher you go
 
 <figure class="image">
   <a href="https://i.ibb.co/7z72BvB/6-1440x1080-start-the-panorama-trail.jpg">
-    <img src="https://i.ibb.co/gg0KzqX/6-800x600-start-the-panorama-trail.jpg" alt="Battery loaded, star Lily's treasure hunt">
+    <img src="https://i.ibb.co/gg0KzqX/6-800x600-start-the-panorama-trail.jpg" alt="Battery loaded, start Lily's treasure hunt">
   </a>
-  <figcaption>Battery loaded, star Lily's treasure hunt</figcaption>
+  <figcaption>Battery loaded, start Lily's treasure hunt</figcaption>
 </figure>
 
 Take a detour from the treasure hunting and try a shorter version of the [Schynige Platte panoramic trail](https://www.schweizmobil.ch/en/hiking-in-switzerland/routes/route-0345.html)
@@ -122,7 +122,7 @@ On top, you get can get a good look at Lake Brienz and Interlaken
   <figcaption>Lake Brienz, view from Tuba view point</figcaption>
 </figure>
 
-On the descent the breaks continue, but the view remains spectacular
+On the descent the breaks continue, but the views remain spectacular
 <figure class="image">
   <a href="https://i.ibb.co/vvhSDTz/14-1440x1920-one-of-the-many-stops-on-the-way-back.jpg">
     <img src="https://i.ibb.co/KKWm32W/14-800x1067-one-of-the-many-stops-on-the-way-back.jpg" alt="Shadow break kids">
@@ -138,7 +138,7 @@ On the descent the breaks continue, but the view remains spectacular
   <figcaption>Lake Thun</figcaption>
 </figure>
 
-At the end the train was ready to go
+At the end, the train was ready to go, but we missed that one
 <figure class="image">
   <a href="https://i.ibb.co/G3qxkYV/16-1440x1080-train-ready-to-go.jpg">
     <img src="https://i.ibb.co/5LysHV6/16-800x600-train-ready-to-go.jpg" alt="Train at Schynige Platte train station">
@@ -146,6 +146,6 @@ At the end the train was ready to go
   <figcaption>Train at Schynige Platte train station</figcaption>
 </figure>
 
-Quite a nice way to spend the day, but next time we'll definitely try the [whole panoramic trail](https://www.schweizmobil.ch/en/hiking-in-switzerland/routes/route-0345.html).  
+At Schynige Platte it's quite a nice way to spend the day, but next time we'll definitely try the [whole panoramic trail](https://www.schweizmobil.ch/en/hiking-in-switzerland/routes/route-0345.html).  
 
 
