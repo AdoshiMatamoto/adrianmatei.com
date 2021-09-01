@@ -39,7 +39,7 @@ github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=CodepediaOrg&repo=bookmarks&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
    <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=CodepediaOrg&repo=bookmarks&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Get connected [<i class="fab fa-fw fa-github"></i>](http://github.com/adrianmatei-me) [<i class="fab fa-fw fa-linkedin"></i>](https://www.linkedin.com/in/adrianmatei-me) [<i class="fab fa-fw fa-twitter-square"></i>](http://github.com/adrianmatei-me) [<i class="fab fa-fw fa-instagram"></i>](https://www.instagram.com/adrianmatei.me) [<i class="fab fa-fw fa-facebook-square"></i>](https://www.facebook.com/adrianmatei.me)'
+  - excerpt: 'Get connected [<i class="fab fa-fw fa-github"></i>](http://github.com/adi-matei) [<i class="fab fa-fw fa-linkedin"></i>](https://www.linkedin.com/in/adrianmatei-me) [<i class="fab fa-fw fa-twitter-square"></i>](http://github.com/adi-matei) [<i class="fab fa-fw fa-instagram"></i>](https://www.instagram.com/adrianmatei.me) [<i class="fab fa-fw fa-facebook-square"></i>](https://www.facebook.com/adrianmatei.me)'
 ---
 
 <div id="home-social-connect" style="font-size:2em">
