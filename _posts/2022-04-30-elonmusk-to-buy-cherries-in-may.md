@@ -4,7 +4,7 @@ excerpt: "After buying Twitter, Elon Musk is willing to make his biggest investm
 header:
     teaser: /assets/images/memes/elonmusk-buys-cherries-in-may/elonmusk-buys-cherries-in-may.jpeg
 thumbnail: /assets/images/memes/elonmusk-buys-cherries-in-may/elonmusk-buys-cherries-in-may.jpeg  
-permalink: /blog/memes/elonsmusk-to-buy-cherries-in-may
+permalink: /blog/memes/elonmusk-to-buy-cherries-in-may
 published: true
 categories:
   - memes
