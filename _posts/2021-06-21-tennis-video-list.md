@@ -130,11 +130,46 @@ Here Ryan from 2MinuteTennis walks you through the **key checkpoints** of the on
 
 ## Slice
 
+### Forehand 
+
+#### How To Hit The Perfect Tennis Forehand Slice In 5 Simple Steps - 10 min
+
+How To Hit The Perfect Tennis Forehand Slice In 5 Simple Steps
+The forehand slice in tennis can be a real weapon if you master the technique and use it at the right time. Most players don't work on their tennis forehand slice yet when you watch the pros like Roger Federer, Rafael Nadal, and Novak Djokovic, we often see them using the forehand slice in matches. They tend to use it mainly on really wide forehands as the forehand slice will give you more reach on those types of balls.
+However, we can use the forehand slice in tennis in three main situations:
+1. To defend with when on the run. Since you're slicing the ball, you can keep it very low and make it hard for your opponent to attack the next ball. It's very hard to attack a ball that only rises up to knee height. Often this type of squash shot can turn a defensive position into either a neutral or even an attacking one.
+2. To approach the net with. By slicing your forehand approach, you can keep the ball very low, especially on surfaces such as grass or fast hard courts. This will make it much harder for your opponent to pass you at the net.
+3. To mix up play with. Just like on the backhand side when you drive the shot crosscourt for a few balls in a row, then throw in a slice backhand to mix up the tempo and bounce, a forehand slice can be used for the same reason. If you only hit one type of ball, over and over again, your opponents will adapt.
+
+How To Hit The Perfect Tennis Forehand Slice In 5 Simple Steps:
+
+Step One
+Using the correct grip. Ideally, you'll use either the continental grip for your forehand slice in tennis or the eastern backhand grip. When you are making contact out in front of the body, the continental will be the best option. However, on wider balls when you know you'll make contact on the side or behind your body line, using the eastern backhand grip will allow you to have the strings facing the target and produce underspin (slice) on the ball.
+
+Step Two
+The preparation and take back. As soon as you recognize the ball is coming to your forehand side and you have decided to hit a forehand slice, turn the right shoulder (left shoulder for lefties) towards the net, and get a slight coil with the upper body. At the same time, lift the racket head above the grip level and create an L shape in your arm and racket. This L shape will give you leverage over the ball, leverage is basically force over that ball. Try to keep this L shape all the way up until the contact point.
+
+Step Three
+Using the correct stance. On the wider balls, the open stance will be the best option. This will allow you to have a wide base, so you can reach further with the body. It will also help you stay balanced using a lunge position. This will aid recovery as you can easily push off from the outside leg.
+On the shorter balls, you can use the neutral stance with a cross-behind step to approach with.
+
+Step Four
+The angle of the strings during the contact zone. Often players will miss the forehand slice because they hit the ball with the strings too flat towards the net. This will give you lots of power but no underspin (slice) on the shot. As you make contact, try to get under the ball, almost hitting the bottom of it. This will help you produce the underspin.
+The lower the ball, the more the strings should open towards the sky.
+The higher the ball, the more the strings can stay flat towards the net.
+
+Step Five
+Tactical intentions with the forehand slice. This shot can be used to defend with on the wider forehand balls. You can approach the net with the forehand slice and you can mix up play with this shot.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9OaZTuaqFSc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Backhand
 
 #### Improve Your SLICE Backhand (2MinTennis - 17min)
 
 The usual checkpoints
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H-wQ_iR6QEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
