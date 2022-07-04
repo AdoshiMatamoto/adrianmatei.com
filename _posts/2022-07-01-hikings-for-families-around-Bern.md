@@ -1,7 +1,7 @@
 ---
-title: Hikings for families and friends around Bern
-excerpt: "List of hikings around Bern, in Switzerland, sorted by time car distance"
-permalink: /blog/hiking/hikings-for-families-and-friends-around-bern
+title: Hikes for families and friends around Bern
+excerpt: "List of hikes around Bern, in Switzerland, sorted by time car distance"
+permalink: /blog/hiking/hikes-for-families-and-friends-around-bern
 published: true
 categories:
   - hiking
