@@ -23,7 +23,7 @@ so you can easily calculate the duration from your own location.
 
 ## **Under 1 hour** by car
 
-### Beautiful vineyard round from Praz 5km  (32min by car)
+### 32'🚗 - Beautiful vineyard round from Praz 5km
 
 - **distance by car** 🚗 - 32min
 - **hiking distance** 🥾📏 - 5km
@@ -37,7 +37,7 @@ so you can easily calculate the duration from your own location.
 - [**Gpx** file 🛰️ 📂](/assets/gps/praz-fribourg-round-vineyard.gpx)
 - [**Website** ℹ️](https://muerren.swiss/de/sommer/tracks/gruetschalp-winteregg-muerren-1h30/)
 - [**Webcams** ](https://en.swisswebcams.ch/webcam/zoom/1451403794-Wistenlacher-Berg-Vau-de-Cour-14-%280-Lugnorre%29_Weather) <i class="fa fa-video-camera"></i>
-- [**Restaurant** 🍴]https://www.bel-air.swiss/page/restaurant-en)
+- [**Restaurant** 🍴](https://www.bel-air.swiss/page/restaurant-en)
 - **tags**  🏷️ - murtensee, family, round-hike, lake, wine, wineyard, fruit-trees
 - **Hikes 🥾** in the area
   - [Mont Vully Hike (includes this one) 11km](https://www.fribourgregion.ch/de/regionmurtensee/wanderungen/mont-vully-wanderung/)
@@ -45,7 +45,7 @@ so you can easily calculate the duration from your own location.
 
 ## Over 1 hour by car 
 
-### Grütschalp - Winteregg - Mürren 4.5km ( > Almendhubel 5km) 🥾 (1h5m by car)
+### 1h5'🚗 - Grütschalp - Winteregg - Mürren 4.5km ( > Almendhubel 5km) 🥾
 
 - **distance by car** 🚗 - 1h 5min
 - **hiking distance** 🥾📏 - 4.5km
