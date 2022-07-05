@@ -36,12 +36,9 @@ so you can easily calculate the duration from your own location.
 - [**Weather** ☀️](https://www.srf.ch/meteo/wetter/Praz/46.9528,7.0974)
 - [**Gpx** file 🛰️ 📂](/assets/gps/praz-fribourg-round-vineyard.gpx)
 - [**Website** ℹ️](https://muerren.swiss/de/sommer/tracks/gruetschalp-winteregg-muerren-1h30/)
-- [**Webcams** ](https://muerren.swiss/en/summer/planning-and-events/webcams/webcams-muerren/) <i class="fa fa-video-camera"></i>
-  - [Mürren village 1'638m above sea level](https://hoteledelweiss.roundshot.com/)
-  - [Almendhubel 1'907m above sea level](https://schilthorn.roundshot.com/allmendhubel)
-
-- [**Restaurant** 🍴](https://schilthorn.ch/25/de/Panorama_Restaurant_Allmendhubel)
-- **tags**  🏷️ - lauterbrunnen, berner oberland, jungfrau
+- [**Webcams** ](https://en.swisswebcams.ch/webcam/zoom/1451403794-Wistenlacher-Berg-Vau-de-Cour-14-%280-Lugnorre%29_Weather) <i class="fa fa-video-camera"></i>
+- [**Restaurant** 🍴]https://www.bel-air.swiss/page/restaurant-en)
+- **tags**  🏷️ - murtensee, family, round-hike, lake, wine, wineyard, fruit-trees
 - **Hikes 🥾** in the area
   - [Mont Vully Hike (includes this one) 11km](https://www.fribourgregion.ch/de/regionmurtensee/wanderungen/mont-vully-wanderung/)
   - [Sentier historique du Vully 11km - route 268 (can use the same starting point)](https://www.schweizmobil.ch/de/wanderland/routen/route-0268.html)
