@@ -25,6 +25,9 @@ so you can easily calculate the duration from your own location.
 
 ### 32'🚗 - Beautiful vineyard round from Praz 5km
 
+> **Summary** 📝 - Round hike around Praz, light, nice view on the Murten Lake and the Alps. Restaurant at the end.
+> Must be great in autumn, through the vineyard...
+
 - **distance by car** 🚗 - 32min
 - **hiking distance** 🥾📏 - 5km
 - **difficulty** 💓💦 - easy
@@ -42,10 +45,14 @@ so you can easily calculate the duration from your own location.
 - **Hikes 🥾** in the area
   - [Mont Vully Hike (includes this one) 11km](https://www.fribourgregion.ch/de/regionmurtensee/wanderungen/mont-vully-wanderung/)
   - [Sentier historique du Vully 11km - route 268 (can use the same starting point)](https://www.schweizmobil.ch/de/wanderland/routen/route-0268.html)
+  
 
-## **Over 1 hour** by car 
+## **Over 1 hour** by car
 
 ### 1h5'🚗 - Grütschalp - Winteregg - Mürren 4.5km ( > Almendhubel 5km) 🥾
+
+> **Summary** 📝 - Cable car from Lauterbrunnen to Grütschalp, walk to Mürren, take railway to Almendhubel (nice restaurant with playground)
+> Take the railway back to Mürren, or descend (2km) and then take train back to Grütschalp
 
 - **distance by car** 🚗 - 1h 5min
 - **hiking distance** 🥾📏 - 4.5km
@@ -66,6 +73,10 @@ so you can easily calculate the duration from your own location.
 
 
 ### 1h13'🚗 - First - Bachalpsee - Waldpilz - Borg 7.8km
+
+> **Summary** 📝 - Cable car from Grindelwald to First, then nice walk to Bachalpsee (picnic maybe)
+> and in the end a big descend with spectacular views to Bort middle station
+
 - **distance by car** 🚗 - 1h 13min
 - **hiking distance** 🥾📏 - 7.8km
 - **difficulty** 💓💦 - medium
