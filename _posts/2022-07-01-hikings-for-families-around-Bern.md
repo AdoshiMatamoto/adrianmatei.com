@@ -43,7 +43,7 @@ so you can easily calculate the duration from your own location.
   - [Mont Vully Hike (includes this one) 11km](https://www.fribourgregion.ch/de/regionmurtensee/wanderungen/mont-vully-wanderung/)
   - [Sentier historique du Vully 11km - route 268 (can use the same starting point)](https://www.schweizmobil.ch/de/wanderland/routen/route-0268.html)
 
-## Over 1 hour by car 
+## **Over 1 hour** by car 
 
 ### 1h5'🚗 - Grütschalp - Winteregg - Mürren 4.5km ( > Almendhubel 5km) 🥾
 
@@ -61,7 +61,25 @@ so you can easily calculate the duration from your own location.
 - [**Webcams** ](https://muerren.swiss/en/summer/planning-and-events/webcams/webcams-muerren/) <i class="fa fa-video-camera"></i>
   - [Mürren village 1'638m above sea level](https://hoteledelweiss.roundshot.com/)
   - [Almendhubel 1'907m above sea level](https://schilthorn.roundshot.com/allmendhubel)
-
 - [**Restaurant** 🍴](https://schilthorn.ch/25/de/Panorama_Restaurant_Allmendhubel)
 - **tags**  🏷️ - lauterbrunnen, berner oberland, jungfrau
+
+
+### 1h13'🚗 - First - Bachalpsee - Waldpilz - Borg 7.8km
+- **distance by car** 🚗 - 1h 13min
+- **hiking distance** 🥾📏 - 7.8km
+- **difficulty** 💓💦 - medium
+- **est. moving time** 🥾⌛ - 1h40min (3h with kids)
+- **elevation gain/loss** 📈/📉 +153m/-758m
+- **round** hike ❌
+- 🚠 ✅ 
+- [**Parking** 🅿️📍 - !!!need to be there very early to get a place!!!](https://goo.gl/maps/dvECb4M1UwBT7uW88)
+- [**Weather** ☀️](https://www.srf.ch/meteo/wetter/First/46.6595,8.0536)
+- [**Gpx** file 🛰️ 📂](/assets/gps/Grindelwald-First-Bachalpsee-Waldpilz-Bort-hike.gpx)
+- [**Website** ℹ️](https://grindelwald.swiss/de/sommer/tracks/blumenweg-first-bachalpsee-waldspitz-bort-nr-4/)
+- [**Webcams** ](https://panocam.skiline.cc/firstbahn)
+- **Restaurant** 🍴
+  - [**Start** - First Mountain Restaurant 🍴](https://www.jungfrau.ch/en-gb/grindelwaldfirst/first-mountain-restaurant/)
+  - [**End** - Alpin Hotel Bort 🍴](https://www.huettenzauber.ch/de/hotels-unterkuenfte/alpinhotel-bort/restaurants)
+- **tags**  🏷️ - grindelwald, berner oberland, jungfrau, first, hike, spectacular
 
