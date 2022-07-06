@@ -23,7 +23,7 @@ so you can easily calculate the duration from your own location.
 
 ## **Under 1 hour** by car
 
-### 32'🚗 - Beautiful vineyard round from Praz 5km
+### 32'🚗 - Praz - Beautiful vineyard round 5km
 
 > **Summary** 📝 - Round hike around Praz, light, nice view on the Murten Lake and the Alps. Restaurant at the end.
 > Must be great in autumn, through the vineyard...
@@ -34,7 +34,7 @@ so you can easily calculate the duration from your own location.
 - **est. moving time** 🥾⌛ - 1h
 - **elevation gain/loss** 📈/📉 +57m/-57m
 - **round** hike ✅
-- 🚠 ❌
+- 🚠 ❌ | 🚞 ❌
 - [**Parking** 🅿️📍](https://goo.gl/maps/BLBwLcCDv7Aw26i56)
 - [**Weather** ☀️](https://www.srf.ch/meteo/wetter/Praz/46.9528,7.0974)
 - [**Gpx** file 🛰️ 📂](/assets/gps/praz-fribourg-round-vineyard.gpx)
@@ -45,7 +45,26 @@ so you can easily calculate the duration from your own location.
 - **Hikes 🥾** in the area
   - [Mont Vully Hike (includes this one) 11km](https://www.fribourgregion.ch/de/regionmurtensee/wanderungen/mont-vully-wanderung/)
   - [Sentier historique du Vully 11km - route 268 (can use the same starting point)](https://www.schweizmobil.ch/de/wanderland/routen/route-0268.html)
-  
+
+### 53'🚗 - SCHYNIGE PLATTE - LOUCHERHORN - SCHYNIGE PLATTE Panoramawanderung 7.2km
+
+> **Summary** 📝 - Beautiful mountain train from Wilderswill to Schynige Platte and back. Super view on the round hike
+> on lakes Thun and Brienz on one side, and the Jungfrau mountains on the other side. 
+
+- **distance by car** 🚗 - 53min
+- **hiking distance** 🥾📏 - 7.2km
+- **difficulty** 💓💦 - easy/medium
+- **est. moving time** 🥾⌛ - 2h30'
+- **elevation gain/loss** 📈/📉 +281/-281m
+- **round** hike ✅
+- 🚞 ✅ | 🚠 ❌
+- [**Parking** 🅿️📍](https://goo.gl/maps/VwGPXfQJqnJoMXDX8)
+- [**Weather** ☀️](https://www.srf.ch/meteo/wetter/Schynige-Platte-(Station)/46.6522,7.9112)
+- [**Gpx** file 🛰️ 📂](/assets/gps/schynige-platte-panorama-wanderung.gpx)
+- [**Website** ℹ️](https://www.jungfrau.ch/de-ch/sommersport/wandern/wanderweg/schynige-platte-loucherhorn-schynige-platte/)
+- [**Webcams** ](https://www.jungfrau.ch/de-ch/live/webcams/#webcam-schynige-platte)
+- [**Restaurant** 🍴](https://www.jungfrau.ch/en-gb/schynige-platte/panorama-restaurant-and-hotel/)
+- **tags**  🏷️ - jungfrau, family, round-hike, lake-view, landscape
 
 ## **Over 1 hour** by car
 
@@ -60,7 +79,7 @@ so you can easily calculate the duration from your own location.
 - **est. moving time** 🥾⌛ - 1h30min
 - **elevation gain/loss** 📈/📉 +150m/-
 - **round** hike ❌ (train back every 15min, very nice)
-- 🚠 ✅ 
+- 🚠 ✅ | 🚞 ✅
 - [**Parking** 🅿️📍](https://goo.gl/maps/q11cjuFjjSSF9MHP6)
 - [**Weather** ☀️](https://www.srf.ch/meteo/wetter/M%C3%BCrren/46.5600,7.8923)
 - [**Gpx** file 🛰️ 📂](/assets/gps/gruetschalp-muerren-lauterbrunnen-walking.gpx)
