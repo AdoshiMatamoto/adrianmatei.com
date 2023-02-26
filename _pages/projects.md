@@ -20,7 +20,7 @@ via the [Coding Friend Program](http://www.codepedia.org/friends/). Write a post
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/projects/logo-codever-195x195.png" alt="Codever Logo" class="align-left logo-project">
 [Codever](https://www.codever.land) <br/>
 Bookmarks and Snippets Manager for Developers & Co. Create your personal bookmark and code snippet lists and share selected
- ones so others can benefit. Public bookmarks are published on [GitHub](https://github.com/codeverland/bookmarks) 
+ ones so others can benefit. Public bookmarks are published on [GitHub](https://github.com/CodeverDotDev/bookmarks) 
 
 <div class="clear"></div>
 <br/>

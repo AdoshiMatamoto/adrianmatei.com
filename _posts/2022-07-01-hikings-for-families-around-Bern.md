@@ -38,13 +38,13 @@ so you can easily calculate the duration from your own location.
 - [**Parking** 🅿️📍](https://goo.gl/maps/BLBwLcCDv7Aw26i56)
 - [**Weather** ☀️](https://www.srf.ch/meteo/wetter/Praz/46.9528,7.0974)
 - [**Gpx** file 🛰️ 📂](/assets/gps/praz-fribourg-round-vineyard.gpx)
-- [**Website** ℹ️](https://muerren.swiss/de/sommer/tracks/gruetschalp-winteregg-muerren-1h30/)
 - [**Webcams** ](https://en.swisswebcams.ch/webcam/zoom/1451403794-Wistenlacher-Berg-Vau-de-Cour-14-%280-Lugnorre%29_Weather) <i class="fa fa-video-camera"></i>
 - [**Restaurant** 🍴](https://www.bel-air.swiss/page/restaurant-en)
 - **tags**  🏷️ - murtensee, family, round-hike, lake, wine, wineyard, fruit-trees
 - **Hikes 🥾** in the area
   - [Mont Vully Hike (includes this one) 11km](https://www.fribourgregion.ch/de/regionmurtensee/wanderungen/mont-vully-wanderung/)
   - [Sentier historique du Vully 11km - route 268 (can use the same starting point)](https://www.schweizmobil.ch/de/wanderland/routen/route-0268.html)
+- **done** ✅
 
 ### 53'🚗 - SCHYNIGE PLATTE - LOUCHERHORN - SCHYNIGE PLATTE Panoramawanderung 7.2km
 
@@ -65,6 +65,7 @@ so you can easily calculate the duration from your own location.
 - [**Webcams** ](https://www.jungfrau.ch/de-ch/live/webcams/#webcam-schynige-platte)
 - [**Restaurant** 🍴](https://www.jungfrau.ch/en-gb/schynige-platte/panorama-restaurant-and-hotel/)
 - **tags**  🏷️ - jungfrau, family, round-hike, lake-view, landscape
+- **to do** ❌ (partially done)
 
 ## **Over 1 hour** by car
 
@@ -89,9 +90,9 @@ so you can easily calculate the duration from your own location.
   - [Almendhubel 1'907m above sea level](https://schilthorn.roundshot.com/allmendhubel)
 - [**Restaurant** 🍴](https://schilthorn.ch/25/de/Panorama_Restaurant_Allmendhubel)
 - **tags**  🏷️ - lauterbrunnen, berner oberland, jungfrau
+- **to do** ❌
 
-
-### 1h13'🚗 - First - Bachalpsee - Waldpilz - Borg 7.8km
+### 1h13'🚗 - First - Bachalpsee - Waldpilz - Borg 7.8km 
 
 > **Summary** 📝 - Cable car from Grindelwald to First, then nice walk to Bachalpsee (picnic maybe)
 > and in the end a big descend with spectacular views to Bort middle station
@@ -112,4 +113,30 @@ so you can easily calculate the duration from your own location.
   - [**Start** - First Mountain Restaurant 🍴](https://www.jungfrau.ch/en-gb/grindelwaldfirst/first-mountain-restaurant/)
   - [**End** - Alpin Hotel Bort 🍴](https://www.huettenzauber.ch/de/hotels-unterkuenfte/alpinhotel-bort/restaurants)
 - **tags**  🏷️ - grindelwald, berner oberland, jungfrau, first, hike, spectacular
+- **done** ✅
+
+
+### 1h22'🚗 Meiringen- Reinchenbachfall and Aare Gorge 8.4km
+
+> **Summary** 📝 - Cable car from Grindelwald to First, then nice walk to Bachalpsee (picnic maybe)
+> and in the end a big descend with spectacular views to Bort middle station
+
+- **distance by car** 🚗 - 1h 22in
+- **hiking distance** 🥾📏 - 8.4km
+- **difficulty** 💓💦 - easy/medium
+- **est. moving time** 🥾⌛ - 2h20min (4h with kids)
+- **elevation gain/loss** 📈/📉 +172m/-451m
+- **round** hike ✅
+- 🚞 ✅
+- [**Parking** 🅿️📍](https://goo.gl/maps/P9nod5AtE1EUEPHF7)
+  - [alternative Parking if the ones close to it is full](https://goo.gl/maps/rD8PAMadYkWiLdNTA)
+- [**Weather** ☀️](https://www.srf.ch/meteo/wetter/Meiringen/46.7275,8.1840?geolocationNameId=0193421c35d6500bad2c5e96f764e46d)
+- [**Gpx** file 🛰️ 📂](/assets/gps/reichenbachfall–aareschlucht.gpx)
+- [**Website** ℹ️](https://wegwandern.ch/listing/reichenbachfall-aareschlucht-wanderung-wandern/)
+- [**Webcams** ](https://www.meiringen-hasliberg.ch/de/Info/Livecam/Roundshot_Alpen_tower)
+- **Restaurant** 🍴
+  - [**Start** - Gasthaus Zwirige 🍴](https://zwirgi.ch/restaurant/)
+  - [**2/3 of Hike** - Aareschlucht (search "restaurant" in page) 🍴](https://aareschlucht.ch/)
+- **tags**  🏷️ - aareschlucht, haslital, meiringen, waterfall, 
+- **to do** ❌
 

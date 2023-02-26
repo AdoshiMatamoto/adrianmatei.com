@@ -10,8 +10,8 @@ header:
 excerpt: 'Software engineer hooked on coding, spending time outdoors and playing all sorts of sports (most likely with a ball).
  <br><br>Currently, working on <a href="https://www.codever.land">Codever</a> to help Developers & Co manage their bookmarks and code snippets <br /><br /> 
  {::nomarkdown}
- <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=codeverland&repo=codever&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> 
- <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=codeverland&repo=bookmarks&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> 
+ <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=CodeverDotDev&repo=codever&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> 
+ <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=CodeverDotDev&repo=bookmarks&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> 
  
  {:/nomarkdown}'
 
