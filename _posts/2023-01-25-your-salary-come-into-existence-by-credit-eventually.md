@@ -5,7 +5,7 @@ header:
     teaser: /assets/images/memes/elonmusk-buys-cherries-in-may/elonmusk-buys-cherries-in-may.jpeg
 thumbnail: /assets/images/memes/elonmusk-buys-cherries-in-may/elonmusk-buys-cherries-in-may.jpeg  
 permalink: /blog/job/question-of-the-day
-published: true
+published: false
 categories:
   - job
 tags:
