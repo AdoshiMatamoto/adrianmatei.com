@@ -43,3 +43,8 @@ Q: How many atoms are in the observable universum?
 A: [10^82 atoms = 10,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 atoms](https://www.livescience.com/how-many-atoms-in-universe.html)
 
 
+Q: What the moon's mass in relation to the earth mass?
+A: [1/81](https://www.space.com/18135-moon-formation.html)
+
+Q: How close does the moon have to be to fall on earth?
+A: 

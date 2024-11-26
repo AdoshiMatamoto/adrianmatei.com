@@ -142,6 +142,13 @@ Here Ryan from 2MinuteTennis walks you through the **key checkpoints** of the on
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N_67FZmoMZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### How To Get Easy Power From Your Two Handed Backhand (Tennis Technique Explained) - 8min
+
+Technique used by Djoko (video slow motion analysis)
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=nU2WhGUBgXQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Slice
 
 ### Forehand 
